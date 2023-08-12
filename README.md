@@ -1,2 +1,2 @@
 # aprendendo-python
-Some exercises to learn python and other sttufs about this language.
+Some exercises and random codes to learn programming.
