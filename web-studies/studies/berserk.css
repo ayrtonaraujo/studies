@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/10/6b/87/106b877fd2962a03e3923252b8c21305.jpg);
+    background-color: black;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    border: 5px solid rgb(204, 0, 0);
+    margin: 0;
+    text-align: center;
+
+}
+
+img {
+    border-style: double;
+    border-radius: 5px;
+    border-color: red;
+}
+
+.logo-img {
+    display: block;
+    width: 250px;
+    border: 0;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,55 @@
+.doodle {
+    padding-top: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+
+input
+{
+    display: block;
+    width: 400px;
+    height: 25px;
+    border-radius: 25px;
+    border: 1px solid;
+    border-color: rgb(201, 201, 201);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.logo {
+    display: block;
+    width: 300px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    margin-top: 30px;
+    border-radius: 5px;
+    border: 0px solid;
+    background-color: rgb(240, 240, 240);
+    border-color: rgb(189, 189, 189);
+    padding: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.credit {
+    margin-top: 100px;
+    
+}
+
+.div-buttons {
+    display: flex;
+    justify-content: center;
+}

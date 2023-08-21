@@ -1,0 +1,28 @@
+body {
+
+    margin: 0;
+
+}
+
+.black {
+    display: block;
+    background-color: black;
+    height: 200px;
+
+
+}
+
+.red {
+    display: block;
+    background-color: red;
+    height: 200px;
+
+
+}
+
+.yellow {
+    display: block;
+    background-color: yellow;
+    height: 200px;
+
+}

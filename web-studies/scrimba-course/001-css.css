@@ -1,0 +1,18 @@
+body {
+
+    background: aquamarine;
+    color: black;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    white-space: pre-line;
+
+
+}
+
+.myContent {
+    font-size: 30px;
+
+}
