@@ -1,19 +1,206 @@
 body {
     background-image: url(img/bg-pattern.jpg);
     background-size: 500px;
-    
+
+
+}
+
+.middleCard {
+    width: 280px;
+    height: 418px;
+
+    margin: 10px;
+
+    background-image: url(img/cloud-middle.jpg);
+    background-size: cover;
+
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.4);
+
 
 }
 
 .card {
-    display: block;
+    display: flex;
+
     margin-top: 150px;
-    margin-left: auto ;
+    margin-left: auto;
     margin-right: auto;
+
     width: 300px;
     height: 438px;
-    background-color: aliceblue;
+
+    background-image: url(img/cloud.jpg);
+    background-size: auto;
+
+    box-shadow: 0px 0px 5px 5px rgba(167, 230, 42, 0.914);
+
+    border-radius: 3px;
+
+}
 
 
+.card:hover {
+    box-shadow: 0px 0px 60px 15px rgba(167, 230, 42, 0.914);
+   
+
+}
+
+.monsterNamePlace {
+    width: 255px;
+    height: 30px;
+
+    margin-top: 7px;
+    margin-left: 7px;
+
+
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+
+
+
+
+    box-shadow: inset 0.2em 0.2em 0.1em 0 rgba(255, 255, 255, 0.389), inset -0.2em -0.2em 0.1em 0 rgba(0, 0, 0, 0.5);
+
+
+
+}
+
+.monsterName {
+
+    margin-top: auto;
+
+    font-size: 22px;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+}
+
+.monsterImg {
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+    background-image: url(img/black-magician.png);
+    background-size: contain;
+
+
+    width: 235px;
+    height: 235px;
+
+    box-shadow: inset 0.3em 0.3em 0.1em 0 rgba(88, 88, 88, 0.938), inset -0.3em -0.3em 0.1em 0 rgba(88, 88, 88, 0.938);
+
+
+}
+
+.monsterInfos {
+    display: block;
+
+}
+
+.monsterEnergy {
+    display: flex;
+    margin-top: -50px;
+    margin-left: auto;
+    margin-right: 8px;
+
+    height: 28px;
+
+}
+
+.monsterStarDiv {
+    display: block;
+
+    margin-left: 120px;
+
+
+
+
+
+
+}
+
+.monsterStar {
+    display: inline;
+
+    width: 18px;
+
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: -2px;
+
+
+
+}
+
+.monsterDescription {
+    display: block;
+
+    width: 235px;
+    height: 62px;
+
+    background-image: url(img/cloud-description.jpg);
+    background-size: contain;
+
+
+
+    box-shadow: 0px 0px 3px 3px rgba(0, 0, 0, 0.4);
+
+    border-image-slice: 16 18 17 18;
+    border-image-width: 5px 5px 5px 5px;
+    border-image-outset: 0px 0px 0px 0px;
+    border-image-repeat: repeat repeat;
+    border-image-source: url(img/border.png);
+    border-style: solid;
+
+
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 13px;
+
+
+    padding: 8px;
+
+
+
+}
+
+.monsterType {
+    margin-top: -6px;
+
+    font-size: 14px;
+    font-variant: small-caps;
+    font-weight: bold;
+
+
+}
+
+.monsterDesc {
+    margin-top: -12px;
+    font-style: italic;
+    font-size: 10px;
+
+}
+
+.monsterLine {
+    display: flex;
+    font-weight: bolder;
+    margin-top: 14px;
+    font-size: 12px;
+    justify-content: right;
+
+}
+
+.monsterAttack {
+    display: flex;
+    font-weight: bold;
+    margin-top: -10px;
+    font-size: 12px;
+    justify-content: right;
 
 }
