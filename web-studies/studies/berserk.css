@@ -1,6 +1,7 @@
 body {
     background-image: url(https://i.pinimg.com/originals/10/6b/87/106b877fd2962a03e3923252b8c21305.jpg);
     background-color: black;
+    background-size: 600px;
     color: white;
     font-family: "Poppins", sans-serif;
     border: 5px solid rgb(204, 0, 0);
