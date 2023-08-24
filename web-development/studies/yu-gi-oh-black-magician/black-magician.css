@@ -190,7 +190,7 @@ body {
 .monsterLine {
     display: flex;
     font-weight: bolder;
-    margin-top: 14px;
+    margin-top: 13px;
     font-size: 12px;
     justify-content: right;
 
@@ -199,7 +199,7 @@ body {
 .monsterAttack {
     display: flex;
     font-weight: bold;
-    margin-top: -10px;
+    margin-top: -12px;
     font-size: 12px;
     justify-content: right;
 
