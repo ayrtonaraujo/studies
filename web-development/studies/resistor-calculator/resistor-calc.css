@@ -11,43 +11,92 @@ body {
 
     justify-content: center;
 
-    margin-top: 50px;
-   
-    
+    margin-top: 5px;
 
 }
 
 
 .inputArea {
-    
-    width: 500px;
-    height: 500px;
 
-    background-color: aquamarine;
+    width: 400px;
+    height: 350px;
+
+    background-color: rgb(227, 227, 227);
 
     border-radius: 15px;
-    
+
     margin-right: 25px;
 
-    
+    padding: 25px;
+
+}
+
+.inputArea button {
+
+    background-color: blueviolet;
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    width: 40px;
+    height: 40px;
+    color: aliceblue;
+
+    border-radius: 5px;
+    border-color: transparent;
+
+}
+
+.inputArea button:hover {
+
+    background-color: slategrey;
+
+}
+
+.inputArea select {
+
+    font-family: 'Poppins', sans-serif;
+
+    width: 100px;
+    height: 40px;
+
+    border-radius: 10px;
+
+    padding-left: 5px;
+
+    border-color: transparent;
 
 }
 
 
-.resistorImg {
-    
-    width: 500px;
-    height: 500px;
+.imgArea {
+
+    display: flex;
+
+    width: 450px;
+    height: 400px;
 
     background-color: blueviolet;
 
     border-radius: 15px;
 
-}
-
-.resistorImg img {
-
-    width: 350px;
+    justify-content: center;
+    align-items: center;
 
 }
 
+.imgArea img {
+
+    width: 75%;
+    height: auto;
+
+}
+
+.titleCalc {
+    display: flex;
+
+    font-family: 'Poppins', sans-serif;
+
+    justify-content: center;
+
+}
