@@ -10,11 +10,15 @@ body {
 
 }
 
+
+
 img {
     border-style: double;
     border-radius: 5px;
     border-color: red;
 }
+
+
 
 .logo-img {
     display: block;
