@@ -1,91 +1,90 @@
 <!DOCTYPE html>
-
-
 <html lang="en">
-
-
 <head>
-    <link rel="icon" type="image/x-icon" href="img/favicon.png">
-
-    <link rel="stylesheet" href="resistor-calc.css">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap"
-        rel="stylesheet">
-
-
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resistor Calculator</title>
 
+    <link rel="stylesheet" href="resistor-calc.css">
+
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
 </head>
 
-
-
 <body>
+     <main>
 
-    <div class="titleCalc">
-        <h1>Resistor Calculator</h1>
-
-    </div>
-
-
-    <div class="workArea">
-
-        <div class="inputArea">
-
-            <div class="qtdSelectBtn">
-                <button>4</button>
-                <button>5</button>
-                <button>6</button>
-            </div>
-
-            <div id="stripe_1_select">
-                <p>Stripe 1</p>
-                <select id="button-1">
-
-                    <option value="Black">Black</option>
-                    <option value="Brown">Brown</option>
-                    <option value="Red">Red</option>
-                    <option value="Orange">Orange</option>
-                    <option value="Yellow">Yellow</option>
-                    <option value="Green">Green</option>
-                    <option value="Blue">Blue</option>
-                    <option value="Violet">Violet</option>
-                    <option value="Grey">Grey</option>
-                    <option value="White">White</option>
-                    <option value="White">Gold</option>
-                    <option value="White">Silver</option>
-
-                </select>
-             </div>
-
-        </div>
-
-
-        <div class="imgArea">
-
-            <img src="img/resistor-base.svg">
-            
-            <div class="stripes">
-                <div id="stripe_1"></div>
-                <div id="stripe_2"></div>
-                <div id="stripe_3"></div>
-                <div id="stripe_4"></div>
-                <div id="stripe_5"></div>
-                <div id="stripe_6"></div>
-            </div>
+        <div class="icon">
+            <img src="img/icon.svg">
 
 
         </div>
 
 
-    </div>
 
 
+        <div class="title">
+            <h1>Resistor Calculator</h1>
+        </div>
+
+        <div class="area">
+
+            <div class="workArea">
+                <div class="select_stripes_btn">
+                    <button class="btn_4">4</button><button class="btn_5">5</button><button class="btn_6">6</button>
+
+                </div>
+
+
+
+
+
+            </div>
+
+
+            <div class="resistorImg">
+                
+                <img src="img/resistor-base.svg">
+
+                <img id="lumi_white"  src="img/resistor-base-lumminance.svg">
+
+                <img id="lumi_black"  src="img/resistor-base-lumminance.svg">
+                
+
+                <div class="stripes">
+
+                    <div class="str" id="str_1"></div>
+                    <div class="str" id="str_2"></div>
+                    <div class="str" id="str_3"></div>
+                    <div class="str" id="str_4"></div>
+                    <div class="str" id="str_5"></div>
+                    <div class="str" id="str_6"></div>
+
+
+
+                </div>
+
+
+
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+     </main>
+
+    
 </body>
+
+
 
 </html>

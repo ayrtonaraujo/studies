@@ -33,6 +33,17 @@ main.cards {
 
 }
 
+main div.title {
+
+    width: 100%;
+    height: 1em;
+    margin-bottom: 16px;
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
 
 main.cards section.card {
     display: flex;
