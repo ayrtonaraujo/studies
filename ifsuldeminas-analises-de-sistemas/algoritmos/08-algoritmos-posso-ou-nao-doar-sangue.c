@@ -18,13 +18,9 @@ int main ()
     scanf ("%d", &peso);
     getchar();
 
-    if (idade >= 16 && idade <= 69 && peso >= 50) {
-        printf ("\nPode doar.");
-
-    }
-    else {
-        printf ("\nNão pode doar.");
-    }
+        
+    (idade >= 16 && idade <= 69 && peso >= 50)?printf ("\nPode doar."):printf ("\nNão pode doar.");
+    
 
 
     return 0;
