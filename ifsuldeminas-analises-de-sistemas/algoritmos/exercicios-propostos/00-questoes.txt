@@ -1,0 +1,27 @@
+1. Implemente um pseucódigo que leia um número e informe se esse número é multipĺo de 5 ou não.
+
+
+2. Implemente um pseudocódigo para ler o salário de um funcionário e aumentá-lo em 15%. Após o aumento, desconte 8% de impostos. Imprima o salário inicial, o salário com o aumento e o salário final.
+
+
+3.  Ler um número inteiro e imprimir seu sucessor e seu antecessor. 
+
+
+4. Entrar com a base e a altura de um retângulo e imprimir a seguinte saída: 
+
+  perímetro: ____
+
+  área: ____
+
+  diagonal: _____
+
+Para resolver esse problema, pesquise a fórmula do perímetro, área e diagonal de um retângulo.
+
+
+5. A prefeitura do Rio de Janeiro abriu uma linha de crédito para os funcionários estatutários. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto.   Fazer um algoritmo que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido.
+
+
+6. A granja Frangotech possui um controle automatizado de cada frango da sua produção. No pé direito do frango há um anel com um chip de identificação;   no pé esquerdo são dois anéis para indicar o tipo de alimento que ele deve consumir. Sabendo que o anel com chip custa R$4,00 e o anel de alimento   custa R$3,50, faça um programa para calcular o gasto total da granja para marcar todos os seus frangos.
+
+
+7. Ler três valores inteiros (variáveis a, b e c) e efetuar o cálculo da equação de segundo grau, apresentando: as duas raízes; a  mensagem "Não há raízes reais", se não for possível fazer o cálculo (delta negativo); e a mensagem "Não é equação do segundo grau", se o valor de "a" for igual a zero.
