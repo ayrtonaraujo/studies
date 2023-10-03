@@ -27,7 +27,7 @@ Deseja-se saber:
 
 - qual a média de veículos nas 5 cidades juntas;
 
-- qual a média de acidentes nas 5 cidades juntas. frangos.
+- qual a média de acidentes nas 5 cidades juntas.
 
 
 7. Criar um algoritmo que imprima uma tabela de conversão de polegadas para centímetros. Deseja-se que na tabela conste valores desde 1 polegada até 20 polegadas inteiras. 

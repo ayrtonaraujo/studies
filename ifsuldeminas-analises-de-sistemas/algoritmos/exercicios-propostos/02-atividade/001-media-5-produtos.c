@@ -10,11 +10,19 @@ int main ()
     int i;
 
     for (i = 1; i <=5; i++) {
-        printf ("Insira o valor do produto %d: ", i);
-        scanf ("%f", preco_produto);
+        float somatorio;
 
-        preco_produto = preco_produto + preco_produto;
+        printf ("Insira o valor do produto %d: ", i);
+        
+        scanf ("%f", &somatorio);
+
+        preco_produto += somatorio;
+
     }
+
+    float media = preco_produto / 5.0;
+
+    printf ("\nMedia: %.2f\n", media);
 
 
     return 0;
