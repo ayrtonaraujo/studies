@@ -6,22 +6,19 @@ O sistema de doação de sangue deve seguir os seguintes critérios:
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
     int idade, peso;
 
-    printf ("Idade: ");
-    scanf ("%d", &idade);
+    printf("Idade: ");
+    scanf("%d", &idade);
     getchar();
 
-    printf ("Peso: ");
-    scanf ("%d", &peso);
+    printf("Peso: ");
+    scanf("%d", &peso);
     getchar();
 
-        
-    (idade >= 16 && idade <= 69 && peso >= 50)?printf ("\nPode doar."):printf ("\nNão pode doar.");
-    
-
+    (idade >= 16 && idade <= 69 && peso >= 50) ? printf("\nPode doar.") : printf("\nNão pode doar.");
 
     return 0;
 }

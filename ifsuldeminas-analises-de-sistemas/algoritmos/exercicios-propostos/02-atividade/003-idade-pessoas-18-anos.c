@@ -17,10 +17,11 @@ int main()
         scanf("%d", &idade[i - 1]);
         getchar();
 
-        if (idade[i -1 ] < 0) {
-         printf ("Insira um valor valido. >= 0.\n");
-         i--;
-        continue;
+        if (idade[i - 1] < 0)
+        {
+            printf("Insira um valor valido. >= 0.\n");
+            i--;
+            continue;
         }
 
         if (idade[i - 1] >= 18)

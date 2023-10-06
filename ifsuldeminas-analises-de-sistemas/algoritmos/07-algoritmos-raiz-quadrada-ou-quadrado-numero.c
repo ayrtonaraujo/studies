@@ -13,7 +13,7 @@ int main()
     printf("Insira o valor: ");
     scanf("%f", &numero);
 
-    (numero >= 0)?printf("\nRaiz quadrada: %.3f", sqrt(numero)):printf("\nQuadrado do numero: %.2f", pow(numero, 2));
+    (numero >= 0) ? printf("\nRaiz quadrada: %.3f", sqrt(numero)) : printf("\nQuadrado do numero: %.2f", pow(numero, 2));
 
     return 0;
 }

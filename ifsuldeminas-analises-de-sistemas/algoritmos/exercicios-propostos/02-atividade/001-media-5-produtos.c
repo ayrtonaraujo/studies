@@ -4,12 +4,14 @@
 
 #include <stdio.h>
 
+#define NUMERO_DE_PRODUTOS 5.0
+
 int main()
 {
     float preco_produto = 0;
     int i;
 
-    for (i = 1; i <= 5; i++)
+    for (i = 1; i <= NUMERO_DE_PRODUTOS; i++)
     {
         float somatorio;
 
@@ -20,7 +22,8 @@ int main()
         preco_produto += somatorio;
     }
 
-    float media = preco_produto / 5.0;
+    // poderia também criar uma função para fazer a media
+    float media = preco_produto / NUMERO_DE_PRODUTOS;
 
     printf("\nMedia: %.2f\n", media);
 

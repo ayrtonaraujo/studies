@@ -22,17 +22,17 @@ int main()
             maior = altura_pessoas[i];
             indice_maior = i + 1;
         }
-        
+
         if (i == 0 || menor > altura_pessoas[i])
         {
             menor = altura_pessoas[i];
             indice_menor = i + 1;
-        }         
+        }
     }
 
-    printf ("==============");
-    printf ("A pessoa \"%d\" e a maior (Altura: \"%.2f\")", indice_maior, maior);
-    printf ("\nA pessoa \"%d\" e a menor (Altura: \"%.2f\")", indice_menor, menor);
- 
-     return 0;
+    printf("==============");
+    printf("A pessoa \"%d\" e a maior (Altura: \"%.2f\")", indice_maior, maior);
+    printf("\nA pessoa \"%d\" e a menor (Altura: \"%.2f\")", indice_menor, menor);
+
+    return 0;
 }

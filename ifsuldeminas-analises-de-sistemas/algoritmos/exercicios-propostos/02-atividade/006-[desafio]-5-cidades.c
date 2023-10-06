@@ -27,13 +27,13 @@ int main()
     {
         printf("Codigo da cidade (apenas numeros): ");
         scanf("%d", &codigo_cidade[i - 1]);
-       
+
         printf("Numero de veiculos: ");
         scanf("%d", &numero_veiculos[i - 1]);
-        
+
         printf("Numero de acidentes: ");
         scanf("%d", &numero_acidentes[i - 1]);
-        
+
         printf("\n");
     }
 
@@ -42,7 +42,7 @@ int main()
 
     printf("\nMedia de Veiculos: %.2f", mediaCalculo(numero_veiculos, QTD_DE_CIDADES));
     printf("\nMedia de Acidentes: %.2f", mediaCalculo(numero_acidentes, QTD_DE_CIDADES));
-    maiorMenorIndice (numero_acidentes, codigo_cidade);
+    maiorMenorIndice(numero_acidentes, codigo_cidade);
 
     return 0;
 }
@@ -79,7 +79,6 @@ void maiorMenorIndice(int acidente[], int cidade[])
 
     printf("\nA cidade \"%d\" possui o *menor* numero de acidentes (\"%d\")", cidade[indice_menor], menor);
 }
-
 
 float mediaCalculo(int vetor[], int quantidade)
 {
