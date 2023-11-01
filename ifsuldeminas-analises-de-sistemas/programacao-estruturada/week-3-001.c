@@ -1,6 +1,4 @@
-/*
-1. Faça um programa que teste se um número é múltiplo de 2.
-*/
+/* 1. Faça um programa que teste se um número é múltiplo de 2. */
 
 #include <stdio.h>
 #include <locale.h>

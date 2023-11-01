@@ -1,11 +1,9 @@
-/*
-3. Uma empresa decidiu dar um aumento escalonado a seus funcionários de acordo com a seguinte regra:
+/* 3. Uma empresa decidiu dar um aumento escalonado a seus funcionários de acordo com a seguinte regra:
     13% para os salários inferiores ou iguais a R$200,00;
     11% para os salários situados entre R$ 200,00 e R$400,00 (inclusive);
     9% para os salários entre R$400,00 e R$800,00(inclusive) e
     7% para os demais salários.
-Escreva um programa que receba o salário atual de um funcionário e forneça o valor do seu novo salário.
-*/
+Escreva um programa que receba o salário atual de um funcionário e forneça o valor do seu novo salário. */
 
 #include <stdio.h>
 

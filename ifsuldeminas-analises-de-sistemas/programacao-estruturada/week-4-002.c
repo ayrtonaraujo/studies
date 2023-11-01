@@ -1,12 +1,10 @@
-/*
-2. Imagine uma prova com 100 questões, cada uma valendo 1 ponto, devendo o resultado ser divulgado através de conceitos de acordo com a seguinte tabela:
+/* 2. Imagine uma prova com 100 questões, cada uma valendo 1 ponto, devendo o resultado ser divulgado através de conceitos de acordo com a seguinte tabela:
     Pontos        Conceito
     0 a 49        D
     50 a 69       C
     70 a 89       B
     90 a 100      A
-Escreva um programa que exiba o conceito da pontuação obtida.
-*/
+Escreva um programa que exiba o conceito da pontuação obtida. */
 
 #include <stdio.h>
 

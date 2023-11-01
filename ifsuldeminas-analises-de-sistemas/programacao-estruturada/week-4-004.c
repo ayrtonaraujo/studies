@@ -1,5 +1,4 @@
-/*
-4. Quais são os valores de x e y no final da execução do programa ?
+/* 4. Quais são os valores de x e y no final da execução do programa ?
     main(){
     float x = 5, y = 2;
     if ((x < 6) && (y < x)) {
@@ -12,8 +11,7 @@
     if ((x < 10) && (y > 8))
     x--;
     else y--;
-    }
-*/
+    } */
 
 main(){
     float x = 5, y = 2; 

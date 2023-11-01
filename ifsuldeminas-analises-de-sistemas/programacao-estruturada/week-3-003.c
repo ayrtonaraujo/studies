@@ -1,6 +1,4 @@
-/*
-3. Faça um programa para ler 3 notas de uma aluno, calcular a média e verificar se ele foi aprovado (média>=7) ou reprovado (média<7).
-*/
+/* 3. Faça um programa para ler 3 notas de uma aluno, calcular a média e verificar se ele foi aprovado (média>=7) ou reprovado (média<7). */
 
 #include <stdio.h>
 

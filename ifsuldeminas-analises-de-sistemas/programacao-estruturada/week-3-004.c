@@ -1,5 +1,4 @@
-/*
-4. Qual é o valor de x e de y no final da execução do programa?
+/* 4. Qual é o valor de x e de y no final da execução do programa?
     main (){
     int y = 4, x = 2;
     if (y > 5)
@@ -11,8 +10,7 @@
     else x = x + 2;
     y = y + 3;
     x++;
-    }
-*/
+    } */
 
 // farei a analise de cabeça, sem usar o compilador.
 
