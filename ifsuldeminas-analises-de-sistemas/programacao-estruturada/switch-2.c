@@ -33,12 +33,10 @@ int main()
     case 'a':
         printf("\nPlano A selecionado.\nSalario atualizado: R$ %.2f", salario + (salario * 0.1));
         break;
-
     case 'B':
     case 'b':
         printf("\nPlano B selecionado.\nSalario atualizado: R$ %.2f", salario + (salario * 0.1));
         break;
-
     case 'C':
     case 'c':
         printf("\nPlano C selecionado.\nSalario atualizado: R$ %.2f", salario + (salario * 0.1));

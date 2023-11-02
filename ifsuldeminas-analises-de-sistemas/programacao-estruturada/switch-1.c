@@ -9,7 +9,7 @@
 
 int main()
 {
-    float custo_fixo;
+    float custo_fixo, taxa;
     int destino;
 
     printf("\nInsira o custo fixo: ");
@@ -36,22 +36,20 @@ int main()
     switch (destino)
     {
     case 1:
-        printf("\nDestino 1 selecionado.\nValor do frete: R$ %.2f", custo_fixo * 0.5);
-
+        taxa = 0.5;
         break;
     case 2:
-        printf("\nDestino 2 selecionado.\nValor do frete: R$ %.2f", custo_fixo * 0.3);
-
+        taxa = 0.3;
         break;
     case 3:
-        printf("\nDestino 3 selecionado.\nValor do frete: R$ %.2f", custo_fixo * 0.8);
-
+        taxa = 0.8;
         break;
     case 4:
-        printf("\nDestino 4 selecionado.\nValor do frete: R$ %.2f", custo_fixo * 1.5);
-
+        taxa = 1.5;
         break;
     }
+
+    printf("\nDestino 4 selecionado.\nValor do frete: R$ %.2f", custo_fixo * taxa);
 
     return 0;
 }

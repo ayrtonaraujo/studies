@@ -15,7 +15,7 @@ void ListaCodigos();
 int main()
 {
     int codigo, quantidade;
-    float valor_pedido;
+    float preco_unico;
 
     ListaCodigos();
     scanf("%d", &codigo);
@@ -36,31 +36,28 @@ int main()
     {
     case 100:
     case 103:
-        valor_pedido = quantidade * 10.20;
+        preco_unico = 10.20;
         break;
-
     case 101:
     case 104:
-        valor_pedido = quantidade * 10.30;
+        preco_unico = 10.30;
         break;
-
     case 102:
-        valor_pedido = quantidade * 10.50;
+        preco_unico = 10.50;
         break;
-
     case 105:
-        valor_pedido = quantidade * 3.0;
+        preco_unico = 3.0;
         break;
     }
 
-    printf("Valor do pedido: R$ %.2f", valor_pedido);
+    printf("Valor do pedido: R$ %.2f", preco_unico * quantidade);
 
     return 0;
 }
 
 void ListaCodigos()
 {
-    printf("Qual o codigo do pedido?\n");
+    printf("\nQual o codigo do pedido?\n\n");
     printf("Cachorro quente     100\n");
     printf("Bauru               101\n");
     printf("Batata Frita        102\n");
