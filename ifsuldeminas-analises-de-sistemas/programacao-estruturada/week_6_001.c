@@ -12,7 +12,7 @@ int main()
         printf("Produto %d: ", i);
         scanf("%f", &valorProduto);
 
-        valorTotal = valorTotal + valorProduto;
+        valorTotal += valorProduto;
     }
 
     printf("---------------\nValor Total: %.2f", valorTotal);
