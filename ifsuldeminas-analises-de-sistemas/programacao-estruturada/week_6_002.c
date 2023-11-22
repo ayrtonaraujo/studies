@@ -5,6 +5,8 @@
 #include <stdio.h>
 #include <string.h>
 
+#define NUM_CLIENTES 15
+
 int main()
 {
     char codigoInserido[3];
@@ -20,7 +22,7 @@ int main()
     printf("Insira o codigo do cliente: ");
     scanf("%s", &codigoInserido);
 
-    for (int i = 0; i <= 14; i++)
+    for (int i = 0; i < NUM_CLIENTES; i++)
     {
         if (strcmp(codigoInserido, codigoCliente[i]) == 0)
         {
