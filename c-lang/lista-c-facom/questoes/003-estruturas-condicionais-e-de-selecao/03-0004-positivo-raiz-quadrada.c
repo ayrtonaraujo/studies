@@ -6,14 +6,14 @@ o número ao quadrado.
 #include <stdio.h>
 #include <math.h>
 
-int main ()
+int main()
 {
     float numero;
 
-    printf ("Insira um valor: ");
-    scanf ("%f", &numero);
+    printf("Insira um valor: ");
+    scanf("%f", &numero);
 
-    (numero >= 0)?printf("Raiz quadrada: %.2f", sqrt(numero)):printf("Quadrado do numero: %.2f", pow(numero,2));
+    (numero >= 0) ? printf("Raiz quadrada: %.2f", sqrt(numero)) : printf("Quadrado do numero: %.2f", pow(numero, 2));
 
     return 0;
 }

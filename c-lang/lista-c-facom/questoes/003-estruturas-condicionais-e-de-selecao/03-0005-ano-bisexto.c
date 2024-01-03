@@ -4,15 +4,19 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int anoFornecido;
 
     printf("Insira o ano: ");
     scanf("%d", &anoFornecido);
 
-       if ((anoFornecido % 400 == 0) || ((anoFornecido % 4 == 0) && (anoFornecido % 100 != 0))) {
+    if ((anoFornecido % 400 == 0) || ((anoFornecido % 4 == 0) && (anoFornecido % 100 != 0)))
+    {
         printf("O ano é bissexto!\n");
-    } else {
+    }
+    else
+    {
         printf("O ano não é bissexto!\n");
     }
 
