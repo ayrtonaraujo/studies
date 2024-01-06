@@ -9,46 +9,48 @@ A média das três notas mencionadas anteriormente os seguintes pesos: Trabalho 
 #define PESO_3 3.0
 #define PESO_5 5.0
 
-void CalculoMedia (float media);
+void CalculoMedia(float media);
 
-int main ()
+int main()
 {
     float notaLaboratorio, notaAvSemestral, notaExameFinal, media;
 
-    printf ("Nota laboratorio: ");
-    scanf ("%f", &notaLaboratorio);
+    printf("Nota laboratorio: ");
+    scanf("%f", &notaLaboratorio);
 
-    printf ("Nota avaliacao semestral: ");
-    scanf ("%f", &notaAvSemestral);
+    printf("Nota avaliacao semestral: ");
+    scanf("%f", &notaAvSemestral);
 
-    printf ("Nota exame final: ");
-    scanf ("%f", &notaExameFinal);
-
+    printf("Nota exame final: ");
+    scanf("%f", &notaExameFinal);
 
     notaLaboratorio = notaLaboratorio * PESO_2;
     notaAvSemestral = notaAvSemestral * PESO_3;
     notaExameFinal = notaExameFinal * PESO_5;
 
-    media = (notaAvSemestral + notaExameFinal + notaLaboratorio ) / (PESO_2 + PESO_3 + PESO_5);
+    media = (notaAvSemestral + notaExameFinal + notaLaboratorio) / (PESO_2 + PESO_3 + PESO_5);
 
-    printf ("Media final: %.2f\n", media);
-    CalculoMedia (media);
+    printf("Media final: %.2f\n", media);
+    CalculoMedia(media);
 
     return 0;
 }
 
-void CalculoMedia (float media) {
+void CalculoMedia(float media)
+{
 
-    if (media >= 0.0 && media <= 2.9) {
-        printf ("Aluno reprovado.");
+    if (media >= 0.0 && media <= 2.9)
+    {
+        printf("Aluno reprovado.");
     }
 
-    else if (media >= 3.0 && media <= 4.9) {
-        printf ("Aluno em recuperacao.");
+    else if (media >= 3.0 && media <= 4.9)
+    {
+        printf("Aluno em recuperacao.");
     }
 
-    else if (media >= 5.0) {
-        printf ("Aluno aprovado.");
+    else if (media >= 5.0)
+    {
+        printf("Aluno aprovado.");
     }
-
 }

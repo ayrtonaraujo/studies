@@ -4,25 +4,24 @@
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
     float salario, emprestimo;
 
-    printf ("Salario: ");
-    scanf ("%f", &salario);
+    printf("Salario: ");
+    scanf("%f", &salario);
 
-    printf ("Emprestimo: ");
-    scanf ("%f", &emprestimo);
+    printf("Emprestimo: ");
+    scanf("%f", &emprestimo);
 
     if (emprestimo > (salario * 0.2))
-    {   
-        printf ("Empréstimo não concedido");
+    {
+        printf("Empréstimo não concedido");
     }
-    else {
-        printf ("Empréstimo autorizado");
-
+    else
+    {
+        printf("Empréstimo autorizado");
     }
-
 
     return 0;
 }

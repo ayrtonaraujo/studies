@@ -4,19 +4,18 @@
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
     int anoNascimento, anoAtual, idade;
 
-    printf ("Ano de Nascimento: ");
-    scanf ("%d", &anoNascimento);
+    printf("Ano de Nascimento: ");
+    scanf("%d", &anoNascimento);
 
-    printf ("Anos Atual: ");
-    scanf ("%d", &anoAtual);
+    printf("Anos Atual: ");
+    scanf("%d", &anoAtual);
 
     idade = anoAtual - anoNascimento;
-    printf ("Sua idade: %d", idade);
-
+    printf("Sua idade: %d", idade);
 
     return 0;
 }
