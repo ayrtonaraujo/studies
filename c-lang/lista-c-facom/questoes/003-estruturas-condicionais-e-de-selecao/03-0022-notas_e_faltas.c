@@ -21,6 +21,13 @@ int main()
     printf("Numero de faltas: ");
     scanf("%d", &numeroFaltas);
 
+    while (notaAluno < 0.0 || notaAluno > 10.0)
+    {
+        printf ("\nNota invalida, inserir novamente.");
+        printf("\nNota final: ");
+        scanf("%f", &notaAluno);
+    }
+    
     if (notaAluno >= 9.0 && notaAluno <= 10.0)
     {
         if (numeroFaltas <= 20)
