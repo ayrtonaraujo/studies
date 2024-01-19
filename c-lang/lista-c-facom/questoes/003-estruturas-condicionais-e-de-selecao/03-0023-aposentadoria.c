@@ -7,51 +7,49 @@
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
     int idade, anos_trabalho;
 
-    printf ("Idade: ");
-    scanf ("%d", &idade);
+    printf("Idade: ");
+    scanf("%d", &idade);
 
-    printf ("Anos trabalhados: ");
-    scanf ("%d", &anos_trabalho);
+    printf("Anos trabalhados: ");
+    scanf("%d", &anos_trabalho);
 
-    while (idade < 0.0) 
+    while (idade < 0.0)
     {
-         printf ("\nIdade invalida, inserir novamente.");
-        printf ("\nIdade: ");
-        scanf ("%d", &idade);
+        printf("\nIdade invalida, inserir novamente.");
+        printf("\nIdade: ");
+        scanf("%d", &idade);
     }
-    
-     while (anos_trabalho > idade) 
+
+    while (anos_trabalho > idade)
     {
-        printf ("\nAnos trabalhados maior que a idade, inserir novamente.");
-        printf ("\nAnos trabalhados: ");
-        scanf ("%d", &anos_trabalho);
+        printf("\nAnos trabalhados maior que a idade, inserir novamente.");
+        printf("\nAnos trabalhados: ");
+        scanf("%d", &anos_trabalho);
     }
 
     if (idade >= 65)
     {
-        printf ("Tem direito.");
+        printf("Tem direito.");
     }
 
     else if (anos_trabalho >= 25)
     {
-        printf ("Tem direito.");
+        printf("Tem direito.");
     }
 
     else if (idade >= 60 && anos_trabalho >= 25)
     {
-         printf ("Tem direito.");
+        printf("Tem direito.");
     }
 
-    else {
-        printf ("Nao tem direito.");
+    else
+    {
+        printf("Nao tem direito.");
     }
-
-    
-
 
     return 0;
 }

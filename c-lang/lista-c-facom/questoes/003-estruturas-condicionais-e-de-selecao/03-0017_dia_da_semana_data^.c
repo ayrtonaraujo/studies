@@ -5,8 +5,7 @@
 #include <stdio.h>
 #include <time.h>
 
-
-int main ()
+int main()
 {
 
     return 0;

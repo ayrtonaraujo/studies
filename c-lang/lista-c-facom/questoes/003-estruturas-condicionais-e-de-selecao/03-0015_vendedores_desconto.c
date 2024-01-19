@@ -11,14 +11,14 @@
 #define DESCONTO 0.1
 #define COMISSAO 0.05
 
-void linhaPontilhada ();
+void linhaPontilhada();
 
-int main ()
+int main()
 {
     float valorParcelado, valorDesconto, valorComissaoAVista, valorComissaoParcelado, valorCompra;
-    
-    printf ("Insira o valor da compra: R$ ");
-    scanf ("%f", &valorCompra);
+
+    printf("Insira o valor da compra: R$ ");
+    scanf("%f", &valorCompra);
 
     valorParcelado = valorCompra / NUMERO_DE_PARCELAS;
 
@@ -28,7 +28,6 @@ int main ()
 
     valorComissaoParcelado = valorCompra * COMISSAO;
 
-    
     linhaPontilhada();
 
     printf("\nValor com desconto (10%%): R$ %.2f ", valorDesconto);
@@ -36,11 +35,10 @@ int main ()
     linhaPontilhada();
     printf("\nValor da Comissao\nA vista: R$ %.2f\nParcelado: R$ %.2f ", valorComissaoAVista, valorComissaoParcelado);
 
-
     return 0;
 }
 
-void linhaPontilhada ()
+void linhaPontilhada()
 {
-    printf ("\n-------------------");
+    printf("\n-------------------");
 }

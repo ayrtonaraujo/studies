@@ -10,47 +10,46 @@ de erro caso o estado fornecido não esteja na lista de estados válidos.
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
     char estado[3];
     float valor, valorFinal, imposto;
 
-    printf ("Estados disponiveis:\nMG\nSP\nRJ\nMS\nInsira o estado [**]: ");
-    scanf ("%s", estado);
-    printf ("Insira o valor: ");
-    scanf ("%f", &valor);
+    printf("Estados disponiveis:\nMG\nSP\nRJ\nMS\nInsira o estado [**]: ");
+    scanf("%s", estado);
+    printf("Insira o valor: ");
+    scanf("%f", &valor);
 
-    switch (estado[0]) {
-        case 'm':
-        case 'M':
-            imposto = valor * 0.07;
-            break;
+    switch (estado[0])
+    {
+    case 'm':
+    case 'M':
+        imposto = valor * 0.07;
+        break;
 
-        case 's':
-        case 'S':
-            imposto = valor * 0.12;
-            break;
+    case 's':
+    case 'S':
+        imposto = valor * 0.12;
+        break;
 
-        case 'r':
-        case 'R':
-            imposto = valor * 0.15;
-            break;
+    case 'r':
+    case 'R':
+        imposto = valor * 0.15;
+        break;
 
-        case 'ms':
-        case 'Ms':
-        case 'mS':
-        case 'MS':
-            imposto = valor * 0.08;
-            break;
+    case 'ms':
+    case 'Ms':
+    case 'mS':
+    case 'MS':
+        imposto = valor * 0.08;
+        break;
 
-        default:
-            printf("Codigo invalido.");
-            break;
+    default:
+        printf("Codigo invalido.");
+        break;
     }
 
     valorFinal = valor + imposto;
 
-    printf ("Valor do imposto: R$ %.2f\nValor com imposto: R$ %.2f", imposto, valorFinal);
-
-
+    printf("Valor do imposto: R$ %.2f\nValor com imposto: R$ %.2f", imposto, valorFinal);
 }

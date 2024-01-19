@@ -4,29 +4,32 @@
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
     float quilometragem, litrosGasolina, kmPorLitro;
 
-    printf ("Kms rodados: ");
-    scanf ("%f", &quilometragem);
+    printf("Kms rodados: ");
+    scanf("%f", &quilometragem);
 
-    printf ("Litros gastos: ");
-    scanf ("%f", &litrosGasolina);
+    printf("Litros gastos: ");
+    scanf("%f", &litrosGasolina);
 
     kmPorLitro = quilometragem / litrosGasolina;
 
-    if (kmPorLitro < 8.0){
-        printf ("Vender o carro.");
+    if (kmPorLitro < 8.0)
+    {
+        printf("Vender o carro.");
     }
 
-    if (kmPorLitro > 14.0){
-        printf ("Super economico.");
+    if (kmPorLitro > 14.0)
+    {
+        printf("Super economico.");
     }
 
-    if (kmPorLitro >= 8.0 && kmPorLitro <= 14.0){
-        printf ("Economico.");
+    if (kmPorLitro >= 8.0 && kmPorLitro <= 14.0)
+    {
+        printf("Economico.");
     }
-    
+
     return 0;
 }
