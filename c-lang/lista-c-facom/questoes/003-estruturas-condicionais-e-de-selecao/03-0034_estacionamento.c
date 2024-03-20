@@ -22,8 +22,7 @@ int main()
     int minutos_entrada, horas_entrada, minutos_saida, horas_saida;
     int minutos_entrada_total, minutos_saida_total, minutos_diferenca;
 
-    // hora de entrada
-    printf("Insira a hora de entrada (hh:mm): ");
+    printf("Insira a hora de entrada (hh:mm): "); // hora de entrada
     scanf("%d:%d", &horas_entrada, &minutos_entrada);
 
     while (horas_entrada > 24 || horas_entrada < 0 || minutos_entrada < 0 || minutos_entrada > 59)
@@ -34,8 +33,7 @@ int main()
         scanf("%d:%d", &horas_entrada, &minutos_entrada);
     }
 
-    // hora de saida
-    printf("Insira a hora de saida (hh:mm): ");
+    printf("Insira a hora de saida (hh:mm): "); // hora de saida
     scanf("%d:%d", &horas_saida, &minutos_saida);
 
     while (horas_saida > 24 || horas_saida < 0 || minutos_saida < 0 || minutos_saida > 59)
@@ -66,12 +64,9 @@ int main()
     // printf("\n%d", minutos_saida_total);
     // printf("\n%d", minutos_diferenca);
 
-    /*
-    Fica mais facil calcular as horas convertidas em minutos.
-    */
+    // Fica mais facil calcular as horas convertidas em minutos.
 
-    // de 1 a 2 horas
-    if (minutos_diferenca > 0 && minutos_diferenca <= 120)
+    if (minutos_diferenca > 0 && minutos_diferenca <= 120) // de 1 a 2 horas
     {
         TempoEstacionado(minutos_diferenca);
         ValorAPagar(UM_REAL, minutos_diferenca);
@@ -102,7 +97,6 @@ void TempoEstacionado(int minutos)
 void ValorAPagar(float valor_hora, int minutos_diferenca)
 {
     float valor_a_pagar;
-
     int horas, hora_arrendodada;
 
     horas = minutos_diferenca / 60;
