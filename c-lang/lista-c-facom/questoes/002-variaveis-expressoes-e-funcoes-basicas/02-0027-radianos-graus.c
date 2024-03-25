@@ -5,7 +5,8 @@
 #include <stdio.h>
 #define PI 3.14159265359
 
-int main() {
+int main()
+{
     double angulo_radianos, angulo_graus;
 
     // Leitura do ângulo em radianos

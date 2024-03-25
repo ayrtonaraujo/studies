@@ -23,8 +23,7 @@ int main()
     printf("\n\nInsira o codigo do seu pedido: ");
     scanf("%d", &codigo_lanche);
 
-    switch (codigo_lanche)
-    {
+    switch (codigo_lanche) {
     case 100:
         valor_a_pagar = 1.2;
         break;

@@ -13,13 +13,11 @@ int main()
     printf("Digite a senha [6 digitos]: ");
     scanf("%d", &senha);
 
-    if (senha == SENHA)
-    {
+    if (senha == SENHA) {
         printf("Acesso permitido.");
     }
 
-    else
-    {
+    else {
         printf("Senha incorreta.");
     }
 

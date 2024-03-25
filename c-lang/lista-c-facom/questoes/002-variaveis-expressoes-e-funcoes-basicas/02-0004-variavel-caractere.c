@@ -1,15 +1,14 @@
-//4. Faça um programa que declare uma variável capaz de armazenar um caractere, atribua
-//a letra "a" a essa variável e mostre na tela o conteúdo da variável.
+// 4. Faça um programa que declare uma variável capaz de armazenar um caractere, atribua
+// a letra "a" a essa variável e mostre na tela o conteúdo da variável.
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
 
-		char z = 'z';
+	char z = 'z';
 
-		printf ("%c", z);
+	printf("%c", z);
 
-
-return 0;
+	return 0;
 }

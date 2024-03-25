@@ -1,24 +1,20 @@
 /*
-32. Faça um programa para calcular a área de um triângulo qualquer. O tamanho dos
-lados devem ser informados pelo usuário.
+32. Faça um programa para calcular a área de um triângulo qualquer. O tamanho dos lados devem ser informados pelo usuário.
 */
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
 	float height, base, area;
-	
-	
-	printf ("Height: ");
-	scanf ("%f", &height);
-	
-	printf ("Base: ");
-	scanf ("%f", &base);
-	
-	
+
+	printf("Height: ");
+	scanf("%f", &height);
+
+	printf("Base: ");
+	scanf("%f", &base);
+
 	area = (height * base) / 2.0;
-	
-	printf ("Area of triangle: %.2f m%c", area, 253); //253 = ASCII of ²
-	
+
+	printf("Area of triangle: %.2f m%c", area, 253); // 253 = ASCII of ²
 }

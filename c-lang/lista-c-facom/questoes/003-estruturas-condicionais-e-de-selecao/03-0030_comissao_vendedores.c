@@ -44,7 +44,7 @@ int main()
         comissao = 400.0 + (venda_mensal * PORCENTAGEM_14);
     }
 
-    printf ("\n* Comissao: %.2f *", comissao);
+    printf("\n* Comissao: %.2f *", comissao);
 
     return 0;
 }

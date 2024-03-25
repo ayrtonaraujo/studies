@@ -22,7 +22,7 @@ int main()
     int minutos_entrada, horas_entrada, minutos_saida, horas_saida;
     int minutos_entrada_total, minutos_saida_total, minutos_diferenca;
 
-    printf("Insira a hora de entrada (hh:mm): "); // hora de entrada
+    printf("\nInsira a hora de entrada (hh:mm): "); // hora de entrada
     scanf("%d:%d", &horas_entrada, &minutos_entrada);
 
     while (horas_entrada > 24 || horas_entrada < 0 || minutos_entrada < 0 || minutos_entrada > 59)
@@ -55,9 +55,9 @@ int main()
 
     minutos_diferenca = minutos_saida_total - minutos_entrada_total;
 
-    if (minutos_diferenca < 0)
+    if (minutos_diferenca < 0) // ajuste se der negativo
     {
-        minutos_diferenca = abs(minutos_diferenca); // modular
+        minutos_diferenca += 24 * 60;
     }
 
     // printf("\n%d", minutos_entrada_total);
@@ -78,8 +78,7 @@ int main()
         ValorAPagar(UM_E_QUARENTA, minutos_diferenca);
     }
 
-    if (minutos_diferenca > 299)
-    {
+    else {
         TempoEstacionado(minutos_diferenca);
         ValorAPagar(DOIS_REAIS, minutos_diferenca);
     }
@@ -106,5 +105,5 @@ void ValorAPagar(float valor_hora, int minutos_diferenca)
 
     valor_a_pagar = (horas + hora_arrendodada) * valor_hora;
 
-    printf("\nValor a pagar: %.2f", valor_a_pagar);
+    printf("\nValor a pagar: R$ %.2f", valor_a_pagar);
 }

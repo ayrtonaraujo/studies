@@ -6,15 +6,13 @@
 
 float numero;
 
-int main ()
+int main()
 {
-	printf ("Number: ");
-	scanf ("%f", &numero);
-	
-		
-	printf ("Before: %.2f", numero - 1.0);
-	printf ("\nAfter: %.2f", numero + 1.0);
-	
+	printf("Number: ");
+	scanf("%f", &numero);
+
+	printf("Before: %.2f", numero - 1.0);
+	printf("\nAfter: %.2f", numero + 1.0);
+
 	return 0;
-	
 }

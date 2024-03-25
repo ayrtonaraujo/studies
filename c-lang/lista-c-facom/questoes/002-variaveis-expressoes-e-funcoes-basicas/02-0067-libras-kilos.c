@@ -4,17 +4,16 @@
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
     float kilos, libras;
 
-    printf ("Valor em libras: ");
-    scanf ("%f", &libras);
+    printf("Valor em libras: ");
+    scanf("%f", &libras);
 
     kilos = libras / 2.20462;
 
-
-    printf ("Em quilos: %.2f", kilos);
+    printf("Em quilos: %.2f", kilos);
 
     return 0;
 }

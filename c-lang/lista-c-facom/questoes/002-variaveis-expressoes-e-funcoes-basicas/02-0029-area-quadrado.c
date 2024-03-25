@@ -5,16 +5,14 @@ informado pelo usuário.
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
 	float height, area;
-	
-	
-	printf ("Height: ");
-	scanf ("%f", &height);
-			
+
+	printf("Height: ");
+	scanf("%f", &height);
+
 	area = height * height;
-	
-	printf ("Area: %.2f m%c", area, 253); //253 = ASCII of ²
-	
+
+	printf("Area: %.2f m%c", area, 253); // 253 = ASCII of ²
 }
