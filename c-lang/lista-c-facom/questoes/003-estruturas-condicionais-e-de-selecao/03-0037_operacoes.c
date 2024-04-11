@@ -191,7 +191,6 @@ int main()
 
 void Operacoes()
 {
-
     printf("\nEscolha a operacao:");
     printf("1. Soma\n");
     printf("2. Subtracao\n");
