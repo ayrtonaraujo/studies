@@ -23,8 +23,7 @@ int main()
 
     printf("\n\n");
 
-    do
-    {
+    do {
         printf("%d ", k);
         k++;
     } while (k <= 99);
