@@ -9,6 +9,12 @@ int main() {
     printf("Digite o segundo numero inteiro: ");
     scanf("%d", &num2);
 
+    while (num2 == num1) { //evitar numero repetido
+        printf("\nO num 2 esta igual ao num 1, insira um valor diferente.");
+        printf("\nDigite o segundo numero inteiro: ");
+        scanf("%d", &num2);
+    }
+
     printf("Numeros impares entre %d e %d:\n", num1, num2);
 
     // Certificar-se de que num1 é o menor número
