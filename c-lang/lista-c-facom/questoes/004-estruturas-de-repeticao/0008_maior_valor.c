@@ -1,6 +1,8 @@
 /*
-7. Faça um programa que solicite diversos valores ao usuário. Ao final, o programa deve informar o menor valor lido.
+8. Faça um programa que solicite diversos valores ao usuário. Ao final, o programa deve informar o maior valor lido.
 */
+
+#include <stdio.h>
 
 #include <stdio.h>
 #include <limits.h>
@@ -8,7 +10,7 @@
 int main()
 {
     int numero = 0;
-    int menor_valor = INT_MAX;
+    int maior_valor = INT_MIN;
 
     printf("Insira os valores. Digite -1 para parar.\n");
 
@@ -22,11 +24,11 @@ int main()
             break;
         }
 
-        if (numero < menor_valor)
+        if (numero > maior_valor)
         {
-            menor_valor = numero;
+            maior_valor = numero;
         }
     }
 
-    printf("Menor valor: %d\n", menor_valor);
+    printf("Mario valor: %d\n", maior_valor);
 }
