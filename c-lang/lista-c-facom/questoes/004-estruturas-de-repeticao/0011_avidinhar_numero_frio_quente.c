@@ -14,12 +14,15 @@ O programa deverá permitir que o usuário faça novas tentativas até encontrar
 #include <stdlib.h>
 #include <stdint.h>
 #include <time.h>
+#include <locale.h>
 
 #define LIMITE_MINIMO 0
 #define LIMITE_MAXIMO 200
 
 int main()
 {
+    setlocale(LC_ALL, "Portuguese");
+
     int numero_sorteado, numero_usuario, tentativas = 0, diferenca;
 
     srand(time(NULL));
@@ -37,7 +40,7 @@ int main()
 
         if (diferenca == 0)
         {
-            printf("\nVoce acertou!");
+            printf("\nVocê acertou!");
         }
 
         if (diferenca <= 5)
@@ -78,8 +81,8 @@ int main()
 
     } while (numero_usuario != numero_sorteado);
 
-    printf("\nNumero Sorteado: %d", numero_sorteado);
-    printf("\nNumero de Tentativas: %d", tentativas);
+    printf("\nNúmero Sorteado: %d", numero_sorteado);
+    printf("\nNúmero de Tentativas: %d", tentativas);
 
     return 0;
 }
