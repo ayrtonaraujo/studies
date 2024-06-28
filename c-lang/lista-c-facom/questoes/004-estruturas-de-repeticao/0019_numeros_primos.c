@@ -5,9 +5,9 @@ Obs.: um número é considerado primo quando seus únicos divisores são 1 e o p
 
 #include <stdio.h>
 
-int main ()
+int main()
 {
-    int numero_usuario = 1, primo;
+    int numero_usuario = 2, primo;
 
     printf("Digite um numero maior que 1.");
 
@@ -16,11 +16,8 @@ int main ()
         printf("\nDigite um numero: ");
         scanf("%d", &numero_usuario);
 
-        primo = numero_usuario % numero_usuario;
-        primo = 
-        
+       
     }
-    
 
     return 0;
 }
