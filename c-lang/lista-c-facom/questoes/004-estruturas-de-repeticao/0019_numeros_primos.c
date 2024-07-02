@@ -4,19 +4,39 @@ Obs.: um número é considerado primo quando seus únicos divisores são 1 e o p
 */
 
 #include <stdio.h>
+#include <locale.h>
 
 int main()
 {
-    int numero_usuario = 2, primo;
+    setlocale(LC_ALL, " ");
 
-    printf("Digite um numero maior que 1.");
+    int numero_usuario = 0;
+    int primo = 1;
 
-    while (numero_usuario > 1)
+    printf("Digite um número maior que 1.");
+
+    while (numero_usuario < 1)
     {
         printf("\nDigite um numero: ");
         scanf("%d", &numero_usuario);
+    }
 
-       
+    for (int i = 2; i <= numero_usuario; i++)
+    {
+        if (numero_usuario % i == 0)
+        {
+            primo++;
+            break;
+        }
+    }
+
+    if (primo == 0)
+    {
+        printf("\nO numero nao eh primo!");
+    }
+    else
+    {
+        printf("\nO numero eh primo.");
     }
 
     return 0;
