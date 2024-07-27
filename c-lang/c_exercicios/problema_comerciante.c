@@ -8,7 +8,8 @@ int main()
     int quantidade, contador_menor_10 = 0, contador_ente_10_20 = 0, contador_acima_20 = 0;
     float lucro, total_compra = 0, total_venda = 0, total_lucro = 0;
 
-    do {
+    do
+    {
         printf("Qual a quantidade? ");
         scanf("%d", &quantidade);
 
@@ -18,7 +19,8 @@ int main()
     float venda[quantidade];
     char descricao[quantidade][50];
 
-    for (int i = 0; i < quantidade; i++) {
+    for (int i = 0; i < quantidade; i++)
+    {
 
         printf("\nProduto %d:\n", i + 1);
 
@@ -31,22 +33,25 @@ int main()
         printf("Preco de venda: ");
         scanf("%f", &venda[i]);
 
-        //regra de tres [lucro]
+        // regra de tres [lucro]
         lucro = ((venda[i] * 100.00) / compra[i]) - 100.0;
 
-        //contadores
-        if (lucro < 10.0) {
+        // contadores
+        if (lucro < 10.0)
+        {
             contador_menor_10++;
         }
-        else if (lucro >= 10.0 && lucro <= 20.0) {
+        else if (lucro >= 10.0 && lucro <= 20.0)
+        {
             contador_ente_10_20++;
         }
-        else if (lucro > 20.0) {
+        else if (lucro > 20.0)
+        {
             contador_acima_20++;
         }
 
         total_compra += compra[i];
-        total_venda += venda[i];        
+        total_venda += venda[i];
     }
 
     total_lucro = total_venda - total_compra;
@@ -56,7 +61,8 @@ int main()
     return 0;
 }
 
-void Relatorio(int a, int b, int c, float d, float e, float f) {
+void Relatorio(int a, int b, int c, float d, float e, float f)
+{
     printf("\nRELATORIO:");
     printf("\nLucro abaixo de 10%%: %d", a);
     printf("\nLucro entre 10%% a 20%%: %d", b);
