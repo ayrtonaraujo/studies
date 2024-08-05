@@ -7,7 +7,7 @@ Fazer um programa para ler um número inteiro N (máximo = 10) e uma matriz quad
 
 int main()
 {
-    int i, j, tamanho_matriz;
+    int i, j, tamanho_matriz, contador_negativo = 0;
 
     do
     {
@@ -24,6 +24,10 @@ int main()
         {
             printf("Elemento [%d,%d]:", i, j);
             scanf("%d", &matriz[i][j]);
+
+            if (matriz[i][j] < 0) {
+                contador_negativo++;
+            }
         }
     }
 
@@ -33,6 +37,8 @@ int main()
     {
         printf("%d\t", matriz[i][i]);
     }
+
+    printf ("\n\nQuantidade de negativos: %d", contador_negativo);
 
     return 0;
 }
