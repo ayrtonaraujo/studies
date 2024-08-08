@@ -24,13 +24,12 @@ int main()
             printf("Elemento [%d,%d]:", i, j);
             scanf("%d", &matriz[i][j]);
         }
-        
-        for (j = i + 1; j < tamanho_matriz; j++) {
-            soma+= matriz[i][j];
+
+        for (j = i + 1; j < tamanho_matriz; j++)
+        {
+            soma += matriz[i][j];
         }
     }
-
-    
 
     printf("\nSoma:\n%d", soma);
 
