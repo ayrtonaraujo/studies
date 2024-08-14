@@ -64,6 +64,7 @@
     "stdio.h": "c",
     "time.h": "c",
     "string": "cpp",
-    "cmath": "c"
+    "cmath": "c",
+    "iostream": "cpp"
   }
 }
