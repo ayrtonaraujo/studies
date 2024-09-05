@@ -12,7 +12,7 @@ int main()
     printf("Insira um valor: ");
     scanf("%d", &num_usuario);
 
-    for (int i = 1; i < num_usuario; i++)
+    for (int i = 2; i < num_usuario; i++)
     {
         if (num_usuario % i == 0)
         {

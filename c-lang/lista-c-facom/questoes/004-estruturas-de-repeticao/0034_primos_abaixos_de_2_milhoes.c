@@ -6,17 +6,29 @@
 
 #define LIMITE 2000000
 
-int main ()
+int main()
 {
-    int soma = 0, i;
+    int soma = 0, i, j;
+    int primo;
 
     for (i = 2; i <= LIMITE; i++)
     {
-        if (i % 1 == 0 && i % i == 0)
+        primo = 1;
+
+        for (j = 2; j < i; j++)
+        {
+            if (i % j == 0)
+            {
+                primo = 0;
+                break;
+            }
+        }
+
+        if (primo)
         {
             soma += i;
         }
     }
 
-    printf ("Soma: %d", soma);
+    printf("Soma: %d", soma);
 }

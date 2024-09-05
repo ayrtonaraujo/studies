@@ -28,6 +28,12 @@ int main()
             primo++;
             break;
         }
+
+        if (numero_usuario % i != 0)
+        {
+            primo--;
+            break;
+        }
     }
 
     if (primo == 0)
