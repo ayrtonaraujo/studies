@@ -1,8 +1,8 @@
 #acerte o numero aleatório_chute
 
-import random
+from random import randrange
 
-x = random.randrange(1,10)
+x = randrange(1,10)
 chute = input('Chute um número de 1 a 10:')
 
 print('Número gerado:', x)
