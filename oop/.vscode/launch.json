@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Documents/GitHub/studies/poo",
-      "program": "d:/Documents/GitHub/studies/poo/build/Debug/outDebug",
+      "cwd": "d:/Documents/GitHub/studies/c++/poo",
+      "program": "d:/Documents/GitHub/studies/c++/poo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
