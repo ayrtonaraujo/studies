@@ -65,6 +65,8 @@
     "time.h": "c",
     "string": "cpp",
     "cmath": "c",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "numbers": "cpp",
+    "ostream": "cpp"
   }
 }
