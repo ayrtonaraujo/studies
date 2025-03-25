@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-
 class Car {
     public:
         string model;
@@ -16,10 +15,7 @@ class Car {
     }
 };
 
-
-
 int main () {
-
     Car toyota("Toyota");
     toyota.drive();
 

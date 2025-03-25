@@ -15,8 +15,7 @@ class Cat {
         }
 };
 
-int main (){
-
+int main () {
     Cat gato("Orange");
     gato.meow();
 

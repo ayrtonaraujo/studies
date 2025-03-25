@@ -10,9 +10,7 @@ class Book {
     }
 };
 
-
-int main ()
-{   
+int main () {   
     Book harry_potter;
     harry_potter.title = "Harry Potter";
     harry_potter.read();

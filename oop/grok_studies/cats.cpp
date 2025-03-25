@@ -6,8 +6,6 @@ class Cat {
     private:
         string color;
 
-        
-
     public:
         Cat (string c) {
             color = c;
@@ -29,8 +27,7 @@ class Cat {
 
         void setColor (string c){
             color = c;           
-        }
-        
+        } 
 };
 
 int main () {
@@ -40,7 +37,6 @@ int main () {
     cout << "Color: " << orange.getColor() << endl;
     orange.setColor("Black");
     orange.meow();
-
 
     return 0;
 }

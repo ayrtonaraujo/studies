@@ -32,7 +32,6 @@ class Cat {
         void setAge (int a){
             age = a;           
         }
-        
 };
 
 int main () {
@@ -41,7 +40,6 @@ int main () {
     cout << "Age: " << cat.getAge() << endl;
     cat.setColor("Green");
     cat.meow();
-
 
     return 0;
 }
