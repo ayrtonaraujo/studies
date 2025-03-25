@@ -1,0 +1,3 @@
+/home/ayrtonaraujo/Documents/studies/c++/sistema_cadastro/cmake-build-debug/CMakeFiles/sistema_cadastro.dir
+/home/ayrtonaraujo/Documents/studies/c++/sistema_cadastro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ayrtonaraujo/Documents/studies/c++/sistema_cadastro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
