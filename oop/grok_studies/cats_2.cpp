@@ -21,8 +21,7 @@ class Cat {
 
         void setColor (string c){
             color = c;           
-        }
-        
+        }    
 };
 
 int main () {
@@ -31,7 +30,6 @@ int main () {
     Cat white("White");
     white.meow();
     cout << "Color: " << white.getColor() << endl;
-
 
     return 0;
 }

@@ -13,11 +13,9 @@ class Phone {
         void call () {
             cout << brand << " is calling!" << endl;
         }
-
 };
 
 int main () {
-
     Phone samsung("Samsung");
     samsung.call();
 

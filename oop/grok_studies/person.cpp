@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-
 class Person {
     public:
         string name;
@@ -22,5 +21,4 @@ int main ()
     luana.sayHello();
 
     return 0;
-    //asd
 }
