@@ -7,4 +7,4 @@ except Exception as error:
 else:
     print(f'Resultado: {r}')
 finally:
-    print("Prograna executado")
+    print("Prograna executado.")
