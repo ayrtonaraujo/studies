@@ -68,5 +68,6 @@
     "iostream": "cpp",
     "numbers": "cpp",
     "ostream": "cpp"
-  }
+  },
+  "cmake.sourceDirectory": "/home/ayrtonaraujo/Documents/studies/c++/sistema_cadastro"
 }

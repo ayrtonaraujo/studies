@@ -15,4 +15,4 @@ print(f"Olá, me chamo {nome}. Tenho {idade} anos, sou {profissao} e programo em
 PI = 3.14159265359
 
 print(f"Pi: {PI:.2f}") # para reduzir float
-print(f"Pi: {PI:4.1f}") # para limitar espaço
+print(f"Pi: {PI:10.1f}") # para limitar espaço
