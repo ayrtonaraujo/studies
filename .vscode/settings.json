@@ -67,6 +67,7 @@
     "cmath": "c",
     "iostream": "cpp",
     "numbers": "cpp",
+<<<<<<< HEAD
     "ostream": "cpp",
     "array": "cpp",
     "atomic": "cpp",
@@ -121,4 +122,9 @@
     "thread": "cpp",
     "variant": "cpp"
   }
+=======
+    "ostream": "cpp"
+  },
+  "cmake.sourceDirectory": "/home/ayrtonaraujo/Documents/studies/c++/sistema_cadastro"
+>>>>>>> python
 }
