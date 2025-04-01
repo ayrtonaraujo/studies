@@ -1,3 +1,5 @@
+# reverse <- espelhar a lista
+
 linguagens = ["python", "js", "c", "java", "csharp"]
 
 linguagens.reverse()
