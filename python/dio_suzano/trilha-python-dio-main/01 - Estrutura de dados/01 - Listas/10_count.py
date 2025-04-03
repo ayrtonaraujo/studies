@@ -1,3 +1,5 @@
+# count <- quantas vezes um valor aparece numa lista
+
 cores = ["vermelho", "azul", "verde", "azul"]
 
 print(cores.count("vermelho"))  # 1

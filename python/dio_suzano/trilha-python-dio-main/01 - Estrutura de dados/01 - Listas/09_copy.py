@@ -1,3 +1,5 @@
+# copy <- cópia de protecao
+
 lista = [1, "Python", [40, 30, 20]]
 
 lista.copy()

@@ -1,3 +1,6 @@
+# pop <- retirar o ultimo elemento da lista ou da posição definida
+
+
 linguagens = ["python", "js", "c", "java", "csharp"]
 
 print(linguagens.pop())  # csharp

@@ -1,3 +1,5 @@
+# append <- adiciona um item apos a ultima posição da lista
+
 lista = []
 
 lista.append(1)
