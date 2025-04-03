@@ -11,6 +11,10 @@ for i in range(1, REPETICOES+1):
     for j in range(1, DOTS+1):
         sleep(0.1)
         print('.', end='', flush=True)
+<<<<<<< Updated upstream
+=======
+        sleep(0.2)
+>>>>>>> Stashed changes
     os.system('clear')
 
 os.system('clear')

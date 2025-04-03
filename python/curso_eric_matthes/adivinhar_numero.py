@@ -1,6 +1,6 @@
 import random
 
-num = random.randrange(1,100)
+num = random.randrange(1,1000)
 
 tentativas = 1
 
