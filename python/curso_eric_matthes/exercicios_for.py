@@ -4,6 +4,7 @@ import time
 for i in range (1,21):
     print(i, end=' ')
 
+print()
 # 4.4
 # for j in range(1,1000001):
 #     print(j)
@@ -11,3 +12,4 @@ for i in range (1,21):
 tupla = (1,2,3,)
 print(tupla, type(tupla))
 
+print([i ** 2 for i in range(1,10)])
