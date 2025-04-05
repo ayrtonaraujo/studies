@@ -1,27 +1,17 @@
-# 3 operações: deposito, saque e extrato [ok]
+# estabelecer limite de 10 transações para uma conta [ok]
+# se usuario atingir limite, informar que excedeu [ok]
+# mostrar data e hora no extrato
 
-# deposito: 
-# deve ser possivel depositar apenas valores positivos [ok]
-# apenas 1 usuario [ok]
-# depositos devem ser armazenados em 1 variavel e exibidos na op extrato [ok]
+import os, time, datetime, pytz
 
-# saque:
-# 3 saques diarios [ok]
-# limite maximo de 500 [ok]
-# se nao tem saldo, informar que nao tem saldo pra saque [ok]
-# armazenar saques em 1 variavel e exibidos no extrato [ok]
-
-# extrato:
-# listar todos os saques e depositos [ok]
-# listar e informar saldo atual [ok]
-# exibir no formato R$1000.45 [ok]
-
-import os
-import time
-
-saldo = 1000
+saldo = 0
 lista_deposito = []
 lista_saque = []
+
+LIMITE_OPERACOES = 10
+operacoes = 0
+
+# ultima_data = datetime.datetime.now().date()
 
 def limpa_tela():
     os.system("clear")
@@ -39,7 +29,6 @@ def voltar_menu():
     limpa_tela()
     menu_inicial()
 
-
 def menu_inicial():
     limpa_tela()
 
@@ -51,7 +40,6 @@ def menu_inicial():
 | 0. Sair           |
 ---------------------""")
     escolha_opcao()
-
 
 def escolha_opcao ():
     opcao = -1
@@ -82,13 +70,20 @@ def escolha_opcao ():
         
     voltar_menu()
 
-
+# acoes
 def adicionar_deposito ():
-    global lista_deposito, saldo
+    global lista_deposito, saldo, operacoes, LIMITE_OPERACOES
 
     print("------ DEPÓSITO ------\n")
     print(f'Saldo em conta: R$ {saldo:.2f}')
-    
+    print(f'# Operação: {operacoes}/10')
+
+    # contador operacoes
+    operacoes += 1
+    if operacoes > LIMITE_OPERACOES:
+        print("Excedeu o limite diário de operações (10).")
+        return
+        
     while True:
         try:
             valor = float(input("\nInsira um valor para depósito: "))
@@ -100,20 +95,25 @@ def adicionar_deposito ():
             break
         except:
             print("Entrada inválida.")
-
+    
     lista_deposito.append(valor)
     print(f'Valor de R${valor:.2f}, inserido com sucesso.')
     saldo += valor
     print(f'Saldo em conta: R$ {saldo:.2f}\n')
    
-
 def efetua_saque ():
-    global lista_saque, saldo
+    global lista_saque, saldo, operacoes, LIMITE_OPERACOES
      
     print("------ SAQUE ------")
-
     print(f'Saldo em conta: R$ {saldo:.2f}')
-
+    print(f'# Operação: {operacoes}/10')
+    
+    # contador operacoes
+    operacoes += 1
+    if operacoes > LIMITE_OPERACOES:
+        print("Excedeu o limite diário de operações (10).")
+        return
+    
     if len(lista_saque) >= 3:
         print("Não é possível efetuar saque. Limite: 3")
         return
@@ -133,7 +133,6 @@ def efetua_saque ():
             if valor > saldo:
                 print("Saldo insuficiente.")
                 continue
-            
             break
         except:
             print("Entrada inválida.")
@@ -142,7 +141,6 @@ def efetua_saque ():
     print(f'Valor de R${valor:.2f}, sacado com sucesso.')
     saldo -= valor
     print(f'Saldo em conta: R$ {saldo:.2f}\n')
-    
 
 def mostra_extrato ():
     global saldo, lista_saque, lista_deposito
@@ -170,7 +168,6 @@ def mostra_extrato ():
         print("Nenhum saque realizado.")
 
     print(f'\nSaldo: R$ {saldo:20.2f}\n')
-
 
 #main
 menu_inicial()
