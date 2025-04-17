@@ -125,6 +125,11 @@
 =======
     "ostream": "cpp"
   },
+<<<<<<< HEAD
   "cmake.sourceDirectory": "/home/ayrtonaraujo/Documents/studies/c++/sistema_cadastro"
+>>>>>>> python
+=======
+  "cmake.sourceDirectory": "/home/ayrtonaraujo/Documents/studies/c++/sistema_cadastro",
+  "cmake.ignoreCMakeListsMissing": true
 >>>>>>> python
 }
