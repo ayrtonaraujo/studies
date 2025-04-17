@@ -67,6 +67,7 @@
     "cmath": "c",
     "iostream": "cpp",
     "numbers": "cpp",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     "ostream": "cpp",
     "array": "cpp",
@@ -121,15 +122,8 @@
     "stop_token": "cpp",
     "thread": "cpp",
     "variant": "cpp"
-  }
 =======
     "ostream": "cpp"
-  },
-<<<<<<< HEAD
-  "cmake.sourceDirectory": "/home/ayrtonaraujo/Documents/studies/c++/sistema_cadastro"
->>>>>>> python
-=======
-  "cmake.sourceDirectory": "/home/ayrtonaraujo/Documents/studies/c++/sistema_cadastro",
-  "cmake.ignoreCMakeListsMissing": true
->>>>>>> python
+>>>>>>> Stashed changes
+  }
 }
