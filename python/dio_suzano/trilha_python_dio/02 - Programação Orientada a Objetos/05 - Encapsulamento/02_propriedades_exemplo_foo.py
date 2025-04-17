@@ -15,9 +15,14 @@ class Foo:
         self._x = 0
 
 
-foo = Foo(10)
+foo = Foo(10) #init
 print(foo.x)
+
+foo.x = 10
+print(foo.x)
+
 del foo.x
 print(foo.x)
+
 foo.x = 10
 print(foo.x)
