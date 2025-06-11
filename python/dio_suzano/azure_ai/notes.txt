@@ -1,0 +1,87 @@
+[SPEECH STUDIO]
+
+Para usar o Speech Studio, selecione o Free FO em pricing tier ao criar o novo recurso (CREATE A SPEECH RESOURCE), assim ficou mais acessível pra mim.
+
+Percebi que ao me registrar, ganhei 200 doláres de subscrição durante 28 dias, o suficiente para terminar essa atividade sem me gerar custos extras
+
+Nomeie o recurso craido como 'servicofala'
+Selecionei a região como Brazil South
+Também tive que criar um novo resource group para poder criar o resource, o grupo de chama "fala"
+
+printscreen: criando_servicofala.png
+
+
+Na verdade eu tentei criar e deu esse erro:
+Failed to create Speech resource
+Failed to create Speech resource servicofala: Error: MissingSubscriptionRegistration. The subscription is not registered to use namespace 'Microsoft.CognitiveServices'. See https://aka.ms/rps-not-found for how to register subscriptions.
+
+printscreen: falha_criar servico.png
+
+Então tive que entrar no portal da azure pra resolver esse problema, fui seguindo um passo a passo que a Gemini IA do google me forneceu, também pesquisei em alguns links para saber mais sobre o cognitive service: 
+https://alfapeople.com/br/azure-cognitive-services/
+https://medium.com/@habbema/azure-cognitive-services-de49b918b2a0
+
+Tive que ir em resource providers e ativar o Microsoft.CognitiveServices
+
+printscreen: ativacao_cognitive.png
+
+E foi criado com sucesso
+
+printscreen: sucesso_servicofala.png
+
+
+Fui na conversão de fala em texto (Real-time speech to text)
+Fiz o teste gravando uma apresentação sobre mim no computador e subindo o aarquivo para o serviço
+
+audio na pasta /images: teste_fala.mp3
+printscreen da tradução: conversao_audio.png
+
+Percebi que ele não conseguiu traduzir converter certas palavras, abaixo o texto integral da tradução dele:
+
+Olá, meu nome é Airton Araujo. É, sou de Manaus, Amazonas, tenho 30 anos e atualmente estou tentando migrar para a área de desenvolvimento. Então, eu gosto bastante da área de embarcados na da área de robótica, né? Eu curto essa parte de criar algo físico. Que tem uma ação física no mundo? Então é estou aprendendo a programação justamente para aprimorar essas habilidades. Aprender sexta-feira mais mais e paitam, principalmente, é uma é a linguagem atual, né? E que tem sido bastante disseminada. É bom, isso aqui é um teste, então vou falar coisas aleatórias aqui é e. É isso bom? Para que tenha sido um bom teste, a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara. 
+
+Também salvei o arquivo json na pasta raiz: fala.json
+
+Foi uma experiência muito legal de se fazer, acredito que isso possa ser aplicado muito bem em serviços de acessibilidade e para cirar legendas de vídeos automáticas. Pode ser também aplicado em algum serviço de assistente virtual.
+
+Agora vamos aprender a usar o speech studio
+
+--------------------------------------------------
+
+[SPEECH STUDIO]
+
+O primeiro passo foi criar um serviço de idiomas
+
+printscreen: criar_servico_linguagem.png
+
+Criei um novo resource grupo chamado: libguagme
+e o nome do recurso ficou como: servicolinguagemdio
+princing tier: Free F0
+
+Demorou um pouco para ele validar e criar o nome recurso
+Ele inicialzou o deploy e submeteu com sucesso, o processo levou cerca de 1 minuto
+
+printscreen: sucesso_deploy.png
+
+Fiz meu login no:https://language.cognitive.azure.com/home
+
+Criei o recurso de linguagem
+
+printscreen: azure_resource.png
+
+Fui na classiçça de texto e depois em análise de sentimento e opiniões
+
+Fui em um produto da amazon e copiei 10 comentários de avaliação dele para fazer a nálise. link do produto: https://www.amazon.com.br/Aparador-Pelos-Multi-Styler-GCX623-Sport/dp/B07VQWPRRD/?_encoding=UTF8&pd_rd_w=9xszI&content-id=amzn1.sym.8e4d82e3-67d8-4ee1-add4-950ff2dc6154%3Aamzn1.symc.a68f4ca3-28dc-4388-a2cf-24672c480d8f&pf_rd_p=8e4d82e3-67d8-4ee1-add4-950ff2dc6154&pf_rd_r=XTX8FHVEMA1PE87GRM8Z&pd_rd_wg=3AhT3&pd_rd_r=16a6adac-1149-43b9-957d-b4e068465a1b&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d
+
+printscreen: avaliacoes_escolhidas.png
+
+e rodei a análise
+
+salvei o resultado num json na pasta raiz: analise.json
+
+prinstcreen dos resultado dentro da pasta /images/resultados_sentimentos
+
+
+
+
+*** Criei uma pasta chamada /images com os prints de todo os passos descritos aqui

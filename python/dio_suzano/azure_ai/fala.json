@@ -1,0 +1,3712 @@
+[
+    {
+        "Id": "5f6c5e4563e54923be69a68fb5e5d6df",
+        "RecognitionStatus": "Success",
+        "Offset": 5500000,
+        "Duration": 19200000,
+        "Channel": 0,
+        "DisplayText": "Olá, meu nome é Airton Araujo.",
+        "NBest": [
+            {
+                "Confidence": 0.7766975,
+                "Lexical": "olá meu nome é airton araujo",
+                "ITN": "olá meu nome é airton araujo",
+                "MaskedITN": "olá meu nome é airton araujo",
+                "Display": "Olá, meu nome é Airton Araujo.",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 7900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 12700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 15500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "airton",
+                        "Offset": 15900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "araujo",
+                        "Offset": 19500000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7766975,
+                "Lexical": "olá meu nome é airton araujo",
+                "ITN": "olá meu nome é airton araujo",
+                "MaskedITN": "olá meu nome é airton araujo",
+                "Display": "olá meu nome é airton araujo",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 7900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 12700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 15500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "airton",
+                        "Offset": 15900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "araujo",
+                        "Offset": 19500000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7766975,
+                "Lexical": "olá meu nome é airton araujo",
+                "ITN": "olá meu nome é airton araujo",
+                "MaskedITN": "olá meu nome é airton araujo",
+                "Display": "olá meu nome é airton araujo",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 7900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 12700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 15500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "airton",
+                        "Offset": 15900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "araujo",
+                        "Offset": 19500000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7766975,
+                "Lexical": "olá meu nome é airton araujo",
+                "ITN": "olá meu nome é airton araujo",
+                "MaskedITN": "olá meu nome é airton araujo",
+                "Display": "olá meu nome é airton araujo",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 7900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 12700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 15500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "airton",
+                        "Offset": 15900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "araujo",
+                        "Offset": 19500000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7766975,
+                "Lexical": "olá meu nome é airton araujo",
+                "ITN": "olá meu nome é airton araujo",
+                "MaskedITN": "olá meu nome é airton araujo",
+                "Display": "olá meu nome é airton araujo",
+                "Words": [
+                    {
+                        "Word": "olá",
+                        "Offset": 5500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "meu",
+                        "Offset": 7900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "nome",
+                        "Offset": 12700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 15500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "airton",
+                        "Offset": 15900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "araujo",
+                        "Offset": 19500000,
+                        "Duration": 5200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "acdbe45b6ac6458986b8d410357532d9",
+        "RecognitionStatus": "Success",
+        "Offset": 36700000,
+        "Duration": 71600000,
+        "Channel": 0,
+        "DisplayText": "É, sou de Manaus, Amazonas, tenho 30 anos e atualmente estou tentando migrar para a área de desenvolvimento.",
+        "NBest": [
+            {
+                "Confidence": 0.8619053,
+                "Lexical": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "ITN": "é sou de manaus amazonas tenho 30 anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "MaskedITN": "é sou de manaus amazonas tenho 30 anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "Display": "É, sou de Manaus, Amazonas, tenho 30 anos e atualmente estou tentando migrar para a área de desenvolvimento.",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sou",
+                        "Offset": 40300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 48300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "manaus",
+                        "Offset": 49900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "amazonas",
+                        "Offset": 53100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 58700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "trinta",
+                        "Offset": 60300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 63500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 70300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 71500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 75900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "tentando",
+                        "Offset": 78300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "migrar",
+                        "Offset": 86300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 94700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 97500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 99100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 100300000,
+                        "Duration": 8000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8619053,
+                "Lexical": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "ITN": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "MaskedITN": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "Display": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sou",
+                        "Offset": 40300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 48300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "manaus",
+                        "Offset": 49900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "amazonas",
+                        "Offset": 53100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 58700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "trinta",
+                        "Offset": 60300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 63500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 70300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 71500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 75900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "tentando",
+                        "Offset": 78300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "migrar",
+                        "Offset": 86300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 94700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 97500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 99100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 100300000,
+                        "Duration": 8000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8619053,
+                "Lexical": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "ITN": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "MaskedITN": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "Display": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sou",
+                        "Offset": 40300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 48300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "manaus",
+                        "Offset": 49900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "amazonas",
+                        "Offset": 53100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 58700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "trinta",
+                        "Offset": 60300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 63500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 70300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 71500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 75900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "tentando",
+                        "Offset": 78300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "migrar",
+                        "Offset": 86300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 94700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 97500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 99100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 100300000,
+                        "Duration": 8000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8619053,
+                "Lexical": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "ITN": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "MaskedITN": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "Display": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sou",
+                        "Offset": 40300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 48300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "manaus",
+                        "Offset": 49900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "amazonas",
+                        "Offset": 53100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 58700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "trinta",
+                        "Offset": 60300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 63500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 70300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 71500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 75900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "tentando",
+                        "Offset": 78300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "migrar",
+                        "Offset": 86300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 94700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 97500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 99100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 100300000,
+                        "Duration": 8000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86190516,
+                "Lexical": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "ITN": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "MaskedITN": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "Display": "é sou de manaus amazonas tenho trinta anos e atualmente estou tentando migrar para a área de desenvolvimento",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 36700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "sou",
+                        "Offset": 40300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 48300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "manaus",
+                        "Offset": 49900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "amazonas",
+                        "Offset": 53100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "tenho",
+                        "Offset": 58700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "trinta",
+                        "Offset": 60300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "anos",
+                        "Offset": 63500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 70300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "atualmente",
+                        "Offset": 71500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 75900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "tentando",
+                        "Offset": 78300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "migrar",
+                        "Offset": 86300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 94700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 97100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 97500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 99100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "desenvolvimento",
+                        "Offset": 100300000,
+                        "Duration": 8000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "f43fe0820e7343ada1c8908537bb2f02",
+        "RecognitionStatus": "Success",
+        "Offset": 115900000,
+        "Duration": 91600000,
+        "Channel": 0,
+        "DisplayText": "Então, eu gosto bastante da área de embarcados na da área de robótica, né? Eu curto essa parte de criar algo físico.",
+        "NBest": [
+            {
+                "Confidence": 0.6538575,
+                "Lexical": "então eu gosto bastante da área de embarcados na da área de robótica né eu curto essa parte de criar algo físico",
+                "ITN": "então eu gosto bastante da área de embarcados na da área de robótica né eu curto essa parte de criar algo físico",
+                "MaskedITN": "então eu gosto bastante da área de embarcados na da área de robótica né eu curto essa parte de criar algo físico",
+                "Display": "Então, eu gosto bastante da área de embarcados na da área de robótica, né? Eu curto essa parte de criar algo físico.",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 115900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 125100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "gosto",
+                        "Offset": 125900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 132300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 137900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 139100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 140700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "embarcados",
+                        "Offset": 141500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 148700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 153500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 154700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 156300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "robótica",
+                        "Offset": 157500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 162700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 163900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "curto",
+                        "Offset": 169100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 172700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 174700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 178700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criar",
+                        "Offset": 180300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 185100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "físico",
+                        "Offset": 201100000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6784128,
+                "Lexical": "então eu gosto bastante da área de embarcados na da área de robótica né tudo essa parte de criar algo físico",
+                "ITN": "então eu gosto bastante da área de embarcados na da área de robótica né tudo essa parte de criar algo físico",
+                "MaskedITN": "então eu gosto bastante da área de embarcados na da área de robótica né tudo essa parte de criar algo físico",
+                "Display": "então eu gosto bastante da área de embarcados na da área de robótica né tudo essa parte de criar algo físico",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 115900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 125100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "gosto",
+                        "Offset": 125900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 132300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 137900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 139100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 140700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "embarcados",
+                        "Offset": 141500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 148700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 153500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 154700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 156300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "robótica",
+                        "Offset": 157500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 162700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 169500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 172700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 174700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 178700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criar",
+                        "Offset": 180300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 185100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "físico",
+                        "Offset": 201100000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6679418,
+                "Lexical": "então eu gosto bastante da área de embarcados na na área de robótica né tudo essa parte de criar algo físico",
+                "ITN": "então eu gosto bastante da área de embarcados na na área de robótica né tudo essa parte de criar algo físico",
+                "MaskedITN": "então eu gosto bastante da área de embarcados na na área de robótica né tudo essa parte de criar algo físico",
+                "Display": "então eu gosto bastante da área de embarcados na na área de robótica né tudo essa parte de criar algo físico",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 115900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 125100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "gosto",
+                        "Offset": 125900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 132300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 137900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 139100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 140700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "embarcados",
+                        "Offset": 141500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 148700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 149900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 151100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 156300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "robótica",
+                        "Offset": 157500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 162700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 169500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 172700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 174700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 178700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criar",
+                        "Offset": 180300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 185100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "físico",
+                        "Offset": 201100000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6538575,
+                "Lexical": "então eu gosto bastante da área de embarcados na da área de robótica né eu curto essa parte de criar algo físico",
+                "ITN": "então eu gosto bastante da área de embarcados na da área de robótica né eu curto essa parte de criar algo físico",
+                "MaskedITN": "então eu gosto bastante da área de embarcados na da área de robótica né eu curto essa parte de criar algo físico",
+                "Display": "então eu gosto bastante da área de embarcados na da área de robótica né eu curto essa parte de criar algo físico",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 115900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 125100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "gosto",
+                        "Offset": 125900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 132300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 137900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 139100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 140700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "embarcados",
+                        "Offset": 141500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 148700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 153500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 154700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 156300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "robótica",
+                        "Offset": 157500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 162700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 163900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "curto",
+                        "Offset": 169100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 172700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 174700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 178700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criar",
+                        "Offset": 180300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 185100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "físico",
+                        "Offset": 201100000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6784128,
+                "Lexical": "então eu gosto bastante da área de embarcados na da área de robótica né tudo essa parte de criar algo físico",
+                "ITN": "então eu gosto bastante da área de embarcados na da área de robótica né tudo essa parte de criar algo físico",
+                "MaskedITN": "então eu gosto bastante da área de embarcados na da área de robótica né tudo essa parte de criar algo físico",
+                "Display": "então eu gosto bastante da área de embarcados na da área de robótica né tudo essa parte de criar algo físico",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 115900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "eu",
+                        "Offset": 125100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "gosto",
+                        "Offset": 125900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 132300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 137900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 139100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 140700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "embarcados",
+                        "Offset": 141500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "na",
+                        "Offset": 148700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "da",
+                        "Offset": 153500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "área",
+                        "Offset": 154700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 156300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "robótica",
+                        "Offset": 157500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 162700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tudo",
+                        "Offset": 169500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "essa",
+                        "Offset": 172700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "parte",
+                        "Offset": 174700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 178700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "criar",
+                        "Offset": 180300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 185100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "físico",
+                        "Offset": 201100000,
+                        "Duration": 6400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "b3ca6c81b73f46d59bc0ab633a97c1d7",
+        "RecognitionStatus": "Success",
+        "Offset": 210000000,
+        "Duration": 19200000,
+        "Channel": 0,
+        "DisplayText": "Que tem uma ação física no mundo?",
+        "NBest": [
+            {
+                "Confidence": 0.8561977,
+                "Lexical": "que tem uma ação física no mundo",
+                "ITN": "que tem uma ação física no mundo",
+                "MaskedITN": "que tem uma ação física no mundo",
+                "Display": "Que tem uma ação física no mundo?",
+                "Words": [
+                    {
+                        "Word": "que",
+                        "Offset": 210000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 211200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 212800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ação",
+                        "Offset": 214800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "física",
+                        "Offset": 220000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 224000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mundo",
+                        "Offset": 225200000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8561977,
+                "Lexical": "que tem uma ação física no mundo",
+                "ITN": "que tem uma ação física no mundo",
+                "MaskedITN": "que tem uma ação física no mundo",
+                "Display": "que tem uma ação física no mundo",
+                "Words": [
+                    {
+                        "Word": "que",
+                        "Offset": 210000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 211200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 212800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ação",
+                        "Offset": 214800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "física",
+                        "Offset": 220000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 224000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mundo",
+                        "Offset": 225200000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8561977,
+                "Lexical": "que tem uma ação física no mundo",
+                "ITN": "que tem uma ação física no mundo",
+                "MaskedITN": "que tem uma ação física no mundo",
+                "Display": "que tem uma ação física no mundo",
+                "Words": [
+                    {
+                        "Word": "que",
+                        "Offset": 210000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 211200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 212800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ação",
+                        "Offset": 214800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "física",
+                        "Offset": 220000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 224000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mundo",
+                        "Offset": 225200000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8561977,
+                "Lexical": "que tem uma ação física no mundo",
+                "ITN": "que tem uma ação física no mundo",
+                "MaskedITN": "que tem uma ação física no mundo",
+                "Display": "que tem uma ação física no mundo",
+                "Words": [
+                    {
+                        "Word": "que",
+                        "Offset": 210000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 211200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 212800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ação",
+                        "Offset": 214800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "física",
+                        "Offset": 220000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 224000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mundo",
+                        "Offset": 225200000,
+                        "Duration": 4000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8561977,
+                "Lexical": "que tem uma ação física no mundo",
+                "ITN": "que tem uma ação física no mundo",
+                "MaskedITN": "que tem uma ação física no mundo",
+                "Display": "que tem uma ação física no mundo",
+                "Words": [
+                    {
+                        "Word": "que",
+                        "Offset": 210000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 211200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 212800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ação",
+                        "Offset": 214800000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "física",
+                        "Offset": 220000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "no",
+                        "Offset": 224000000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "mundo",
+                        "Offset": 225200000,
+                        "Duration": 4000000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "3f35989a53f94e1dbd30a89e464c34be",
+        "RecognitionStatus": "Success",
+        "Offset": 237900000,
+        "Duration": 55600000,
+        "Channel": 0,
+        "DisplayText": "Então é estou aprendendo a programação justamente para aprimorar essas habilidades.",
+        "NBest": [
+            {
+                "Confidence": 0.6777394,
+                "Lexical": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "ITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "MaskedITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "Display": "Então é estou aprendendo a programação justamente para aprimorar essas habilidades.",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 237900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 256300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 260700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aprendendo",
+                        "Offset": 262700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 265900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "programação",
+                        "Offset": 266300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "justamente",
+                        "Offset": 272300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aprimorar",
+                        "Offset": 278300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "essas",
+                        "Offset": 283900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "habilidades",
+                        "Offset": 286700000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6777394,
+                "Lexical": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "ITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "MaskedITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "Display": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 237900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 256300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 260700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aprendendo",
+                        "Offset": 262700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 265900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "programação",
+                        "Offset": 266300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "justamente",
+                        "Offset": 272300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aprimorar",
+                        "Offset": 278300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "essas",
+                        "Offset": 283900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "habilidades",
+                        "Offset": 286700000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6777394,
+                "Lexical": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "ITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "MaskedITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "Display": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 237900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 256300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 260700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aprendendo",
+                        "Offset": 262700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 265900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "programação",
+                        "Offset": 266300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "justamente",
+                        "Offset": 272300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aprimorar",
+                        "Offset": 278300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "essas",
+                        "Offset": 283900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "habilidades",
+                        "Offset": 286700000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6777392,
+                "Lexical": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "ITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "MaskedITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "Display": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 237900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 256300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 260700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aprendendo",
+                        "Offset": 262700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 265900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "programação",
+                        "Offset": 266300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "justamente",
+                        "Offset": 272300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aprimorar",
+                        "Offset": 278300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "essas",
+                        "Offset": 283900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "habilidades",
+                        "Offset": 286700000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.6777394,
+                "Lexical": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "ITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "MaskedITN": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "Display": "então é estou aprendendo a programação justamente para aprimorar essas habilidades",
+                "Words": [
+                    {
+                        "Word": "então",
+                        "Offset": 237900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 256300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "estou",
+                        "Offset": 260700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aprendendo",
+                        "Offset": 262700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 265900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "programação",
+                        "Offset": 266300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "justamente",
+                        "Offset": 272300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "para",
+                        "Offset": 276700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "aprimorar",
+                        "Offset": 278300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "essas",
+                        "Offset": 283900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "habilidades",
+                        "Offset": 286700000,
+                        "Duration": 6800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "672a0dc8bc174f6aa9ea490fc3f519ac",
+        "RecognitionStatus": "Success",
+        "Offset": 302300000,
+        "Duration": 60400000,
+        "Channel": 0,
+        "DisplayText": "Aprender sexta-feira mais mais e paitam, principalmente, é uma é a linguagem atual, né?",
+        "NBest": [
+            {
+                "Confidence": 0.3846422,
+                "Lexical": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual né",
+                "ITN": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual né",
+                "MaskedITN": "aprender sexta-feira mais mais e paitam principalmente é uma é a linguagem atual né",
+                "Display": "Aprender sexta-feira mais mais e paitam, principalmente, é uma é a linguagem atual, né?",
+                "Words": [
+                    {
+                        "Word": "aprender",
+                        "Offset": 302300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "sexta",
+                        "Offset": 305900000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "feira",
+                        "Offset": 309300000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 312700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 319500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 321100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "paitam",
+                        "Offset": 321500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "principalmente",
+                        "Offset": 327500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 333900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 334300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 347900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 350700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "linguagem",
+                        "Offset": 353100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "atual",
+                        "Offset": 357900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 361500000,
+                        "Duration": 1200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.39988935,
+                "Lexical": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual não é",
+                "ITN": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual não é",
+                "MaskedITN": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual não é",
+                "Display": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual não é",
+                "Words": [
+                    {
+                        "Word": "aprender",
+                        "Offset": 302300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "sexta",
+                        "Offset": 305900000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "feira",
+                        "Offset": 309300000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 312700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 319500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 321100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "paitam",
+                        "Offset": 321500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "principalmente",
+                        "Offset": 327500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 333900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 334300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 347900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 350700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "linguagem",
+                        "Offset": 353100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "atual",
+                        "Offset": 357900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 361500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 362700000,
+                        "Duration": 400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.3464014,
+                "Lexical": "aprender sexta feira mais mais e pai então que principalmente é uma é a linguagem atual né",
+                "ITN": "aprender sexta feira mais mais e pai então que principalmente é uma é a linguagem atual né",
+                "MaskedITN": "aprender sexta feira mais mais e pai então que principalmente é uma é a linguagem atual né",
+                "Display": "aprender sexta feira mais mais e pai então que principalmente é uma é a linguagem atual né",
+                "Words": [
+                    {
+                        "Word": "aprender",
+                        "Offset": 302300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "sexta",
+                        "Offset": 305900000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "feira",
+                        "Offset": 309300000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 312700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 319500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 321100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "pai",
+                        "Offset": 321500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 324300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 326300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "principalmente",
+                        "Offset": 327500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 333900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 334300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 347900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 350700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "linguagem",
+                        "Offset": 353100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "atual",
+                        "Offset": 357900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 361500000,
+                        "Duration": 1200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.36459914,
+                "Lexical": "aprender sexta feira mais mais e pai então que principalmente é uma é a linguagem atual não é",
+                "ITN": "aprender sexta feira mais mais e pai então que principalmente é uma é a linguagem atual não é",
+                "MaskedITN": "aprender sexta feira mais mais e pai então que principalmente é uma é a linguagem atual não é",
+                "Display": "aprender sexta feira mais mais e pai então que principalmente é uma é a linguagem atual não é",
+                "Words": [
+                    {
+                        "Word": "aprender",
+                        "Offset": 302300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "sexta",
+                        "Offset": 305900000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "feira",
+                        "Offset": 309300000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 312700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 319500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 321100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "pai",
+                        "Offset": 321500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 324300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 326300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "principalmente",
+                        "Offset": 327500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 333900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 334300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 347900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 350700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "linguagem",
+                        "Offset": 353100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "atual",
+                        "Offset": 357900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "não",
+                        "Offset": 361500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 362700000,
+                        "Duration": 400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.3846422,
+                "Lexical": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual né",
+                "ITN": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual né",
+                "MaskedITN": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual né",
+                "Display": "aprender sexta feira mais mais e paitam principalmente é uma é a linguagem atual né",
+                "Words": [
+                    {
+                        "Word": "aprender",
+                        "Offset": 302300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "sexta",
+                        "Offset": 305900000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "feira",
+                        "Offset": 309300000,
+                        "Duration": 3400000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 312700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "mais",
+                        "Offset": 319500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 321100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "paitam",
+                        "Offset": 321500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "principalmente",
+                        "Offset": 327500000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 333900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 334300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 347900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 350700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "linguagem",
+                        "Offset": 353100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "atual",
+                        "Offset": 357900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "né",
+                        "Offset": 361500000,
+                        "Duration": 1200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "736b49224a19477bb58861279d78e52d",
+        "RecognitionStatus": "Success",
+        "Offset": 371900000,
+        "Duration": 96400000,
+        "Channel": 0,
+        "DisplayText": "E que tem sido bastante disseminada. É bom, isso aqui é um teste, então vou falar coisas aleatórias aqui é e.",
+        "NBest": [
+            {
+                "Confidence": 0.66749746,
+                "Lexical": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "ITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "MaskedITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "Display": "E que tem sido bastante disseminada. É bom, isso aqui é um teste, então vou falar coisas aleatórias aqui é e.",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 371900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 376700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 377900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 380700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "disseminada",
+                        "Offset": 383900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 397500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 402300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 404300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 407100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 408300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 408700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 409500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 415500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 417900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 419100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "coisas",
+                        "Offset": 421900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aleatórias",
+                        "Offset": 425100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 431100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 447500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 457100000,
+                        "Duration": 11200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.66712695,
+                "Lexical": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "ITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "MaskedITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "Display": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 371900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 376700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 377900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 380700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "disseminada",
+                        "Offset": 383900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 397500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 402300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 404300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 407100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 408300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 408700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 409500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 415500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 417900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 419100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "coisas",
+                        "Offset": 421900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aleatórias",
+                        "Offset": 425100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 431100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 447500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 457100000,
+                        "Duration": 11200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.66749746,
+                "Lexical": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "ITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "MaskedITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "Display": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 371900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 376700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 377900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 380700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "disseminada",
+                        "Offset": 383900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 397500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 402300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 404300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 407100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 408300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 408700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 409500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 415500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 417900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 419100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "coisas",
+                        "Offset": 421900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aleatórias",
+                        "Offset": 425100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 431100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 447500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 457100000,
+                        "Duration": 11200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.66749746,
+                "Lexical": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "ITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "MaskedITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "Display": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 371900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 376700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 377900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 380700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "disseminada",
+                        "Offset": 383900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 397500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 402300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 404300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 407100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 408300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 408700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 409500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 415500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 417900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 419100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "coisas",
+                        "Offset": 421900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aleatórias",
+                        "Offset": 425100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 431100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 447500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 457100000,
+                        "Duration": 11200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.66749746,
+                "Lexical": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "ITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "MaskedITN": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "Display": "e que tem sido bastante disseminada é bom isso aqui é um teste então vou falar coisas aleatórias aqui é e",
+                "Words": [
+                    {
+                        "Word": "e",
+                        "Offset": 371900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "tem",
+                        "Offset": 376700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 377900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "bastante",
+                        "Offset": 380700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "disseminada",
+                        "Offset": 383900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 397500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 402300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 404300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 407100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 408300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 408700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 409500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "então",
+                        "Offset": 415500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "vou",
+                        "Offset": 417900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "falar",
+                        "Offset": 419100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "coisas",
+                        "Offset": 421900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "aleatórias",
+                        "Offset": 425100000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "aqui",
+                        "Offset": 431100000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "é",
+                        "Offset": 447500000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 457100000,
+                        "Duration": 11200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "a9be4009fc7f4dba9c6449038bc39e7c",
+        "RecognitionStatus": "Success",
+        "Offset": 472800000,
+        "Duration": 14000000,
+        "Channel": 0,
+        "DisplayText": "É isso bom?",
+        "NBest": [
+            {
+                "Confidence": 0.8003709,
+                "Lexical": "é isso bom",
+                "ITN": "é isso bom",
+                "MaskedITN": "é isso bom",
+                "Display": "É isso bom?",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 472800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 473600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 484000000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8003709,
+                "Lexical": "é isso bom",
+                "ITN": "é isso bom",
+                "MaskedITN": "é isso bom",
+                "Display": "é isso bom",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 472800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 473600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 484000000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8003709,
+                "Lexical": "é isso bom",
+                "ITN": "é isso bom",
+                "MaskedITN": "é isso bom",
+                "Display": "é isso bom",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 472800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 473600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 484000000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8003711,
+                "Lexical": "é isso bom",
+                "ITN": "é isso bom",
+                "MaskedITN": "é isso bom",
+                "Display": "é isso bom",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 472800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 473600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 484000000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.800371,
+                "Lexical": "é isso bom",
+                "ITN": "é isso bom",
+                "MaskedITN": "é isso bom",
+                "Display": "é isso bom",
+                "Words": [
+                    {
+                        "Word": "é",
+                        "Offset": 472800000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "isso",
+                        "Offset": 473600000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 484000000,
+                        "Duration": 2800000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "e8f6dbc57fa7499dac180c5450f09a9e",
+        "RecognitionStatus": "Success",
+        "Offset": 495100000,
+        "Duration": 83200000,
+        "Channel": 0,
+        "DisplayText": "Para que tenha sido um bom teste, a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara.",
+        "NBest": [
+            {
+                "Confidence": 0.5916425,
+                "Lexical": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "ITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "MaskedITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "Display": "Para que tenha sido um bom teste, a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara.",
+                "Words": [
+                    {
+                        "Word": "para",
+                        "Offset": 495100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 496700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tenha",
+                        "Offset": 497500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 499900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 502300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 503100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 504300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 507500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 507900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "espera",
+                        "Offset": 509500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 512300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 513500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 515900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "consiga",
+                        "Offset": 518700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "traduzir",
+                        "Offset": 522700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 528300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 529500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 532300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 536700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 537500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "forma",
+                        "Offset": 547100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 550700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "dinâmica",
+                        "Offset": 563900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 570700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "clara",
+                        "Offset": 571100000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5916425,
+                "Lexical": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "ITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "MaskedITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "Display": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "Words": [
+                    {
+                        "Word": "para",
+                        "Offset": 495100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 496700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tenha",
+                        "Offset": 497500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 499900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 502300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 503100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 504300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 507500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 507900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "espera",
+                        "Offset": 509500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 512300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 513500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 515900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "consiga",
+                        "Offset": 518700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "traduzir",
+                        "Offset": 522700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 528300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 529500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 532300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 536700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 537500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "forma",
+                        "Offset": 547100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 550700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "dinâmica",
+                        "Offset": 563900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 570700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "clara",
+                        "Offset": 571100000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5916425,
+                "Lexical": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "ITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "MaskedITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "Display": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "Words": [
+                    {
+                        "Word": "para",
+                        "Offset": 495100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 496700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tenha",
+                        "Offset": 497500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 499900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 502300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 503100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 504300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 507500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 507900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "espera",
+                        "Offset": 509500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 512300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 513500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 515900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "consiga",
+                        "Offset": 518700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "traduzir",
+                        "Offset": 522700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 528300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 529500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 532300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 536700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 537500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "forma",
+                        "Offset": 547100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 550700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "dinâmica",
+                        "Offset": 563900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 570700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "clara",
+                        "Offset": 571100000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5916425,
+                "Lexical": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "ITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "MaskedITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "Display": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "Words": [
+                    {
+                        "Word": "para",
+                        "Offset": 495100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 496700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tenha",
+                        "Offset": 497500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 499900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 502300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 503100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 504300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 507500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 507900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "espera",
+                        "Offset": 509500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 512300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 513500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 515900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "consiga",
+                        "Offset": 518700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "traduzir",
+                        "Offset": 522700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 528300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 529500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 532300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 536700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 537500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "forma",
+                        "Offset": 547100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 550700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "dinâmica",
+                        "Offset": 563900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 570700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "clara",
+                        "Offset": 571100000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.59164274,
+                "Lexical": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "ITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "MaskedITN": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "Display": "para que tenha sido um bom teste a gente espera que o agir consiga traduzir se algo que de uma forma bem dinâmica e clara",
+                "Words": [
+                    {
+                        "Word": "para",
+                        "Offset": 495100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 496700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "tenha",
+                        "Offset": 497500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "sido",
+                        "Offset": 499900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "um",
+                        "Offset": 502300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "bom",
+                        "Offset": 503100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "teste",
+                        "Offset": 504300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 507500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "gente",
+                        "Offset": 507900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "espera",
+                        "Offset": 509500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 512300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "o",
+                        "Offset": 513500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "agir",
+                        "Offset": 515900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "consiga",
+                        "Offset": 518700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "traduzir",
+                        "Offset": 522700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "se",
+                        "Offset": 528300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "algo",
+                        "Offset": 529500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "que",
+                        "Offset": 532300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "de",
+                        "Offset": 536700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "uma",
+                        "Offset": 537500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "forma",
+                        "Offset": 547100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "bem",
+                        "Offset": 550700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "dinâmica",
+                        "Offset": 563900000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "e",
+                        "Offset": 570700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "clara",
+                        "Offset": 571100000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    }
+]
